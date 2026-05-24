@@ -1,0 +1,571 @@
+{
+  "header": {
+    "home": "Hjem",
+    "about": "Om os",
+    "church": "Vores Kirke",
+    "services": "Tjenester",
+    "committee": "Komité",
+    "education": "Søndagsskole",
+    "teaching": "Undervisning",
+    "mezmur": "Mezmur Gruppe",
+    "children": "Børn og Unge",
+    "parents": "Forældregruppe",
+    "members": "Medlemmer",
+    "donation": "Donér",
+    "news": "Nyheder og Info.",
+    "gallery": "Galleri",
+    "photoGallery": "Foto Galleri",
+    "videoGallery": "Video Galleri",
+    "contact": "Kontakt Os",
+    "events": "Begivenheder"
+  },
+
+  "slider": {
+    "slide1": {
+      "title": "Den Etiopiske Ortodokse Tewahedo Kirke i Danmark",
+      "subtitle": "Debre Mihret Kidus Amanuel Kirke",
+      "verse": ""
+    },
+    "slide2": {
+      "title": "Velkommen",
+      "subtitle": "",
+      "verse": "“Stol på Herren af hele dit hjerte” (Ordsprogene 3:5)"
+    },
+    "slide3": {
+      "title": "Åndeligt fællesskab og kærlighed",
+      "subtitle": "Lad os elske hinanden",
+      "verse": "“Gud er kærlighed” (1 Johannes 4:8)"
+    },
+    "button": "Bliv medlem"
+  },
+  "bibleVerse": {
+    "welcome": "Velkommen",
+    "holyText": "I Faderens, Sønnens og Helligåndens navn, én Gud. Amen.",
+    "paragraph1": "Velkommen til hjemmesiden for Den Etiopiske Ortodokse Tewahedo Kirke i Danmark (Debre Mihret Kidus Amanuel Kirke, København).",
+    "paragraph2": "Vores mission og vision er at leve og dele Jesu Kristi evangelium samt hjælpe børn og unge med at vokse op med gode værdier og moral.",
+    "paragraph3": "Vores kirke er et åndeligt fællesskab, hvor medlemmer tilbeder Gud sammen, støtter hinanden og hjælper hinanden.",
+    "paragraph4": "Denne hjemmeside giver information om vores tro, vores tjenester og vores fællesskab.",
+    "thankyou": "Tak fordi du besøger vores hjemmeside.",
+    "verse": "“Jeg blev glad, da de sagde til mig: Lad os gå til Herrens hus.”",
+    "verseRef": "Salme 122:1"
+  },
+
+  "about": {
+    "title": "Om vores kirke",
+
+    "paragraph1": "Den Etiopiske Ortodokse Tewahedo Debre Mihret Kidus Amanuel Kirke i Danmark blev grundlagt med velsignelse og tilladelse fra Hans Eminence Abune Entons den 21. marts 2010. Fra begyndelsen har kirken arbejdet for at bevare den etiopisk-ortodokse tro, tradition og åndelige arv blandt troende i Danmark. Qomos Aba Zemikael Deresa tjente som kirkens første åndelige leder og administrator.",
+
+    "paragraph2": "I kirkens første år var der mangel på præster og diakoner, og gudstjenester blev ofte gennemført med hjælp fra diakoner, som kom fra teologiske skoler eller fra andre ortodokse menigheder. Trods mange udfordringer voksede kirken gradvist gennem Guds hjælp, åndeligt lederskab og menighedens stærke støtte. I dag tjener flere diakoner og frivillige aktivt i kirkens forskellige tjenester. En af de største udfordringer gennem årene har været manglen på et fast sted til gudstjenester og liturgiske tjenester.",
+
+    "paragraph3": "Siden 2020 er udfordringen med at finde et passende sted til kirkens aktiviteter blevet større. Derfor besluttede menigheden på generalforsamlingen den 5. august 2023 at købe en permanent grund og bygning til kirkens fremtidige tjeneste. Under ledelse af Qomos Aba Zemikael og med støtte fra kirkens medlemmer blev der købt en grund, og med velsignelse fra Hans Eminence Abune Elias blev grundstenen lagt. Kirkebyggeriet er nu i gang som et vigtigt åndeligt projekt for menigheden i Danmark.",
+
+    "button": "Læs mere"
+  },
+
+  "highlights": {
+    "verse": "“Vi ved, at alt virker sammen til gode for dem, der elsker Gud.”",
+    "verseRef": "Romerbrevet 8:28",
+
+    "foundationTitle": "Grundlæggelse og vækst",
+    "foundationText": "Den Etiopiske Ortodokse Tewahedo Sankt Emanuel Kirke i Danmark blev grundlagt i 2010. I 2024 blev grundstenen til kirkebygningen lagt, og byggeriet er nu i gang.",
+
+    "departmentsTitle": "Forskellige afdelinger",
+    "departmentsText": "Vores menighed er organiseret i forskellige åndelige og sociale afdelinger, som tjener medlemmerne og styrker fællesskabet.",
+
+    "rulesTitle": "Vedtægter og regler",
+    "rulesText": "Kirken har vedtægter og retningslinjer baseret på den Etiopiske Ortodokse Tewahedo Kirkes tro, tradition og hellige lære.",
+
+    "membershipTitle": "Medlemsformular",
+    "membershipText": "Du kan blive medlem af kirken ved at udfylde og indsende medlemsformularen online.",
+
+    "servicesTitle": "Kirkens tjenester",
+    "servicesText": "Kirken tilbyder gudstjenester, bøn, åndelig undervisning, dåb, vielse og andre kirkelige aktiviteter for menigheden.",
+
+    "supportTitle": "Støt kirken",
+    "supportText": "Kirken støttes gennem medlemmernes donationer, tiende, frivilligt arbejde og kærlig støtte fra menigheden."
+  },
+  "banner": {
+    "registeredMembers": "Registrerede medlemmer",
+    "monthlyMembers": "Medlemmer der betaler månedligt",
+    "donateButton": "Betal tiende og donation"
+  },
+  "committee": {
+    "title": "Menighedens Åndelige Administrationsråd",
+    "description": "Menighedens Åndelige Administrationsråd er en eksekutiv komité bestående af mellem fem og ni medlemmer valgt af menighedens generalforsamling. Rådet arbejder for at styrke kirkens apostolske tjeneste, udvikle det åndelige liv og fremme enheden blandt de troende gennem samarbejde mellem præster og menighedsmedlemmer. Derudover vurderer rådet kirkens aktiviteter, udfordringer og fremtidige planer og træffer nødvendige beslutninger til gavn for menigheden. Debre Mihret Kidus Amanuel Etiopisk Ortodokse Tewahedo Kirke ledes i overensstemmelse med kirkens vedtægter af en bestyrelse på syv medlemmer, som vælges hvert tredje år blandt præster, menighedsmedlemmer og repræsentanter fra søndagsskolen.",
+    "button": "Læs mere"
+  },
+  "ministries": {
+    "mainTitle": "Søndagsskole",
+    "mainDescription": "Vores kirkes søndagsskole fungerer under kirkens administration og er organiseret med forskellige afdelinger. Hver afdeling arbejder for at styrke medlemmernes åndelige vækst og kristne liv.",
+
+    "readMore": "Læs mere",
+
+    "education": {
+      "title": "Undervisningsafdeling",
+      "description": "Denne afdeling er oprettet for at styrke børn og unges åndelige forståelse gennem undervisning i Bibelen og den Etiopiske Ortodokse Tewahedo Kirkes tro og traditioner."
+    },
+
+    "mezmur": {
+      "title": "Lovsangsafdeling",
+      "description": "Denne afdeling er dedikeret til at lovprise Gud gennem salmer og lovsang. Deltagerne lærer kirkens åndelige musiktradition og deltager i liturgiske tjenester og kirkelige ceremonier."
+    },
+
+    "children": {
+      "title": "Børne- og Ungdomsafdeling",
+      "description": "Denne afdeling hjælper børn og unge med at vokse op i kristen tro, åndeligt liv og gode værdier fra en tidlig alder."
+    },
+
+    "parents": {
+      "title": "Forældrenes Koordinationsafdeling",
+      "description": "Denne afdeling støtter forældre i at styrke deres tro, enhed og åndelige ansvar samt aktivt deltage i deres børns åndelige udvikling."
+    },
+
+    "members": {
+      "title": "Medlemsafdeling",
+      "description": "Medlemsafdelingen arbejder for at styrke menighedens tro, kærlighed og fællesskab gennem åndelige og sociale aktiviteter."
+    }
+  },
+  "contact": {
+    "contactUs": "Kontakt Os",
+    "shareThought": "Del Dine Tanker Med Os",
+    "description": "Hvis du har spørgsmål eller åndelige behov, er du altid velkommen til at kontakte vores kirke. Vi er klar til at hjælpe med kærlighed, omsorg og tjeneste.",
+    "button": "Kontakt Os"
+  },
+  "blog": {
+    "subTitle": "Aktuelle begivenheder",
+    "mainTitle": "Her finder du vigtige begivenheder, nyheder og meddelelser fra vores lokale kirke.",
+    "readMore": "Læs mere",
+    "items": {
+      "building": {
+        "title": "Kirkebyggeriets udvikling",
+        "description": "Arbejdet med at opføre vores egen kirkelige tjenesteplads fortsætter ved Guds nåde i en positiv retning. Menighedens støtte gennem kærlighed, enhed og økonomiske bidrag bliver stadig stærkere. Samtidig fortsætter dialogen med bygningsrådgivere og de nødvendige juridiske processer på en håbefuld måde. Vi takker alle, der har støttet dette store åndelige arbejde, og vi opfordrer hele menigheden til fortsat at støtte projektet gennem bøn, samarbejde og fællesskab."
+      },
+      "fasting": {
+        "title": "Den Store Faste",
+        "description": "Den Store Faste er en hellig og ærværdig åndelig periode i vores kirke. I denne tid mindes vi vor Herre og Frelser Jesus Kristus, som fastede i ørkenen. Fasten er en nådefuld tid, hvor vi gennem bøn, anger, ydmyghed og gode gerninger søger åndelig fornyelse. Den handler ikke kun om at afholde sig fra mad, men også om at vende sig bort fra dårlige vaner og komme tættere på Gud."
+      }
+    }
+  },
+  "footer": {
+    "churchName": "Debre Mihret Kidus Amanuel Kirke",
+    "description": "Den Etiopiske Ortodokse Tewahedo Debre Mihret Kidus Amanuel Kirke i Danmark er et åndeligt fællesskab, der styrker menigheden gennem gudstjeneste, undervisning og kristent fællesskab.",
+    "serviceTime": "Gudstjeneste: hver lørdag og på kirkelige højtider",
+    "importantLinks": "Vigtige links",
+    "contactTitle": "Kontakt os",
+    "contactText": "Har du spørgsmål, kommentarer eller åndelige behov, er du velkommen til at kontakte vores kirke.",
+    "contactButton": "Kontakt os",
+    "newsletterTitle": "Tilmeld dig vores ugentlige nyheder",
+    "emailPlaceholder": "E-mailadresse",
+    "signUp": "Tilmeld",
+    "newsletterMessage": "Beklager, denne funktion er stadig under udvikling. Den vil snart være tilgængelig.",
+    "copyright": "Copyright © 2026",
+    "copyrightName": "Debre Mihret Kidus Amanuel Kirke, København, Danmark",
+    "links": {
+      "wudasieMaryam": "Wudasie Maryam på dansk",
+      "ethiopianChurch": "Den Etiopiske Ortodokse Tewahedo Kirkes tro og orden",
+      "danishBible": "Dansk Bibel online",
+      "kibreNegest": "Kebra Nagast på engelsk"
+    }
+  },
+  "chartDetail": {
+    "back": "Tilbage",
+    "title": "Kirkens organisatoriske struktur",
+    "subtitle": "Denne side beskriver kirkens åndelige administration, arbejdsområder og tjenestestruktur.",
+
+    "synodTitle": "Den Hellige Synode",
+    "synodText": "Den Hellige Synode er Den Etiopiske Ortodokse Tewahedo Kirkes øverste åndelige og administrative myndighed. Den ledes af Hans Hellighed Patriarken og består af ærkebiskopper og biskopper, som træffer overordnede beslutninger for kirken i Etiopien og i udlandet.",
+
+    "patriarchateTitle": "Patriarkatets hovedadministration",
+    "patriarchateText": "Patriarkatets hovedadministration er kirkens centrale udøvende organ. Den arbejder for at gennemføre de love, retningslinjer og beslutninger, som vedtages af Den Hellige Synode.",
+
+    "dioceseTitle": "Bispesæde og stift",
+    "dioceseText": "Vores kirke hører under Den Etiopiske Ortodokse Tewahedo Kirkes stift for de nordiske lande og Grækenland. Bispesædet er placeret i Stockholm, Sverige.",
+
+    "parishCouncilTitle": "Menighedens åndelige administrationsråd",
+    "parishCouncilText": "Menighedens åndelige administrationsråd er et udøvende råd valgt af menighedens generalforsamling. Rådet arbejder for at styrke kirkens apostolske tjeneste, menighedens åndelige liv, fællesskab og enhed. Det vurderer kirkens aktiviteter, udfordringer og fremtidige planer. Debre Mihret Kidus Amanuel Kirke ledes efter kirkens vedtægter af valgte rådsmedlemmer, som vælges hvert tredje år.",
+
+    "officeTitle": "1) Menighedsrådets kontor",
+    "officeText": "Menighedsrådets kontor koordinerer kirkens daglige åndelige og administrative arbejde. Kontoret omfatter kirkens administrator, næstformand og sekretær og hjælper med at organisere evangelisk undervisning, udvikling, ejendom, økonomi og andre arbejdsområder.",
+
+    "financeTitle": "2) Økonomiafdeling",
+    "financeText1": "Økonomiafdelingen registrerer, følger op på og rapporterer kirkens indtægter og udgifter på en lovlig, gennemsigtig og ansvarlig måde. Afdelingen afslutter regnskabet månedligt, følger budgettet og sikrer en tydelig økonomisk forvaltning.",
+    "financeText2": "Kassereren modtager medlemsbetalinger og andre indtægter med kvittering og registrerer dem som kirkens indtægter. Godkendte udgifter betales efter korrekt godkendelse, og alle bilag opbevares omhyggeligt til rapportering, gennemgang og revision.",
+
+    "gospelTitle": "3) Evangelie- og undervisningsafdeling",
+    "gospelText": "Evangelie- og undervisningsafdelingen koordinerer kirkens åndelige undervisning, forkyndelse, vejledning og trosstyrkende aktiviteter. Afdelingen arbejder efter kirkens tro og tradition for at styrke menigheden i bøn, tro og kristent liv.",
+
+    "propertyTitle": "4) Ejendoms- og inventarafdeling",
+    "propertyText": "Ejendoms- og inventarafdelingen har ansvar for kirkens faste og bevægelige ejendele, hellige liturgiske genstande og øvrigt udstyr. Afdelingen registrerer, opbevarer og følger op på kirkens ejendele og udarbejder mindst én gang om året en rapport til menighedsrådet.",
+
+    "additionalTitle": "Yderligere arbejdsafdelinger",
+    "additionalText": "Menighedens åndelige administrationsråd kan oprette yderligere arbejdsafdelinger for at gennemføre kirkens formål og tjeneste på en mere organiseret måde. Disse kan omfatte velgørenhed, rådgivning, informationsteknologi, præstetjeneste, offentlig kommunikation, søndagsskole, byggeri, renovering, udvikling og andre nødvendige afdelinger.",
+
+    "list": {
+      "charity": "Velgørenheds- og rådgivningsafdeling",
+      "it": "Informationsteknologiafdeling",
+      "priests": "Præstetjeneste",
+      "publicRelations": "Kommunikations- og PR-afdeling",
+      "sundaySchool": "Søndagsskole",
+      "building": "Bygnings-, renoverings- og udviklingsafdeling"
+    }
+  },
+  "educationSection": {
+    "backHome": "Forside",
+    "title": "Børne- og ungdomsafdeling",
+    "comingSoon": "Information om denne afdeling vil snart blive tilgængelig."
+  },
+  "contactPage": {
+    "backHome": "Forside",
+    "title": "Kontakt Os",
+    "addressTitle": "Adresse",
+    "phoneTitle": "Telefonnummer",
+    "emailTitle": "E-mailadresse",
+    "name": "Navn",
+    "email": "E-mail",
+    "phone": "Telefon",
+    "message": "Skriv din besked",
+    "send": "Send Besked",
+    "map": "Kort",
+    "formMessage": "Beklager, hvis du har en besked eller forespørgsel, bedes du kontakte os telefonisk eller sende en e-mail til secretary@tewahedo.dk."
+  },
+  "donation": {
+    "backHome": "Forside",
+    "pageTitle": "Tiende og Offerbidrag",
+    "titheTitle": "Tiende og Offer",
+    "buildingTitle": "Til Kirkebyggeri",
+    "mobilePay": "MobilePay",
+    "internationalTitle": "For medlemmer uden for Danmark",
+    "churchName": "Den Etiopisk-Ortodokse Tewahedo Kirke i Danmark",
+    "address": "Adresse",
+    "phone": "Telefon",
+    "email": "E-mail",
+    "bank": "Bank",
+    "buildingInternational": "International donation til kirkebyggeri",
+    "blessing": "Måtte Sankt Emanuel velsigne jer."
+  },
+  "education": {
+    "backHome": "Forside",
+    "title": "Undervisningsafdeling",
+
+    "paragraph1": "Undervisningsafdelingen er en hellig tjeneste i vores kirke, som arbejder for at styrke troens fundament og udvikle åndelig forståelse blandt medlemmerne.",
+
+    "paragraph2": "Vores mål er at styrke medlemmerne i den ortodokse tro, hjælpe dem til åndelig vækst og vejlede den nye generation til et kristent liv baseret på kirkens tradition og lære.",
+
+    "whatWeTeach": "Det vi underviser i",
+
+    "teach1": "Bibelen (Det Gamle Testamente, Profeterne og Evangeliet)",
+    "teach2": "Ortodoks tro og troslære",
+    "teach3": "De helliges liv og eksempler",
+    "teach4": "Kirkens tradition og liturgiske liv",
+    "teach5": "Bøn, lovsang og åndeligt liv",
+
+    "goalTitle": "Vores mål",
+
+    "goalText": "At styrke medlemmerne i troen, hjælpe dem til åndelig vækst og vejlede generationerne til et liv baseret på kirkens tro og tradition.",
+
+    "participants": "Hvem kan deltage?",
+
+    "participant1": "Børn – grundlæggende tro og bøn",
+    "participant2": "Unge – livsvejledning og åndelig forståelse",
+    "participant3": "Voksne – dybere undervisning og fællesskab",
+
+    "activities": "Aktiviteter",
+
+    "activity1": "Ugentlig undervisning",
+    "activity2": "Bibelstudie",
+    "activity3": "Bønnesamlinger",
+    "activity4": "Børne- og ungdomsprogrammer",
+
+    "invitation": "Alle medlemmer inviteres hjerteligt til at deltage i undervisningen for at vokse i troen og styrkes i deres åndelige liv.",
+
+    "search": "Søg..."
+  },
+  "gallery": {
+    "backHome": "Forside",
+    "photoGallery": "Fotogalleri",
+    "morePhotos": "Se flere billeder"
+  },
+  "videoGallery": {
+    "backHome": "Forside",
+    "title": "Videogalleri",
+
+    "video1": "Kirkens grundstensceremoni",
+    "video2": "Meskel 2013 - København Danmark",
+    "video3": "Meskel Fest",
+    "video4": "Kirkeligt arrangement",
+    "video5": "Opdatering om kirkebyggeri",
+    "video6": "Mezmur gudstjeneste",
+    "video7": "Hellig fest fejring",
+    "video8": "Bibelstudie",
+    "video9": "Børneprogram",
+    "video10": "Særlig prædiken"
+  },
+  "committeeDetail": {
+    "backHome": "Hjem",
+
+    "pageTitle": "Menighedens Åndelige Administrationsråd",
+
+    "description": "Menighedens Åndelige Administrationsråd er kirkens administrative og åndelige ledelsesorgan, som vælges af menighedens generalforsamling. Rådet arbejder for at styrke kirkens apostolske tjeneste, fremme menighedens åndelige vækst, bevare enheden blandt medlemmerne og sikre en ordentlig ledelse af kirkens aktiviteter og tjenester i overensstemmelse med den Etiopiske Ortodokse Tewahedo Kirkes tro og tradition.",
+
+    "structureTitle": "Rådets Struktur",
+
+    "structureDescription": "Efter generalforsamlingen er dette råd kirkens højeste administrative organ. Rådet afholder regelmæssige møder to gange om måneden for at koordinere og følge op på kirkens daglige aktiviteter og tjenester.",
+
+    "teamTitle": "Rådets Medlemmer",
+
+    "teamSubtitle": "Medlemmer, der tjener i Menighedens Åndelige Administrationsråd ved Debre Mihret Kidus Amanuel Etiopiske Ortodokse Tewahedo Kirke.",
+
+    "roles": {
+      "chairman": "Formand",
+      "viceChairman": "Næstformand",
+      "secretary": "Sekretær",
+      "finance": "Kasserer",
+      "accounting": "Regnskabsafdeling",
+      "preaching": "Evangelisationsafdeling",
+      "property": "Ejendomsafdeling"
+    }
+  },
+  "servicesPage": {
+    "backHome": "Hjem",
+
+    "pageTitle": "Kirkens Tjenester",
+
+    "description": "Vores kirke tilbyder forskellige åndelige tjenester til menigheden i overensstemmelse med Bibelen samt den Etiopiske Ortodokse Tewahedo Kirkes tro, tradition og hellige lære. Disse tjenester hjælper de troende med at styrke deres åndelige liv, vokse i troen og leve i Guds kærlighed og fællesskab.",
+
+    "mainServices": "De vigtigste tjenester i vores kirke",
+
+    "ctaTitle": "Deltag i kirkens tjenester og modtag velsignelse",
+
+    "contactButton": "Kontakt Os",
+
+    "memberButton": "Bliv Medlem",
+
+    "items": {
+      "liturgy": {
+        "title": "Den Hellige Liturgi",
+        "description": "Den Hellige Liturgi er kirkens vigtigste gudstjeneste, hvor de troende deltager i den hellige nadver og får åndeligt fællesskab med Gud."
+      },
+
+      "prayer": {
+        "title": "Bøn og Fastebøn",
+        "description": "Daglige bønner, fastebønner og åndelige samlinger hjælper menigheden med at styrke troen og komme nærmere Gud."
+      },
+
+      "baptism": {
+        "title": "Dåb",
+        "description": "Dåben er et helligt sakramente, hvor børn og nye troende træder ind i det kristne liv og modtager åndelig genfødsel i Kristus."
+      },
+
+      "marriage": {
+        "title": "Ægteskab",
+        "description": "Et helligt kirkeligt ritual, hvor mand og hustru velsignes foran Gud og begynder deres familieliv i kristen kærlighed og trofasthed."
+      },
+
+      "funeral": {
+        "title": "Begravelsesgudstjeneste",
+        "description": "En åndelig tjeneste og bøn for afdøde troende, hvor menigheden beder Gud give deres sjæle hvile og fred."
+      },
+
+      "education": {
+        "title": "Undervisning",
+        "description": "Kirken tilbyder bibelundervisning, ortodoks teologi, Amharisk undervisning og åndelig oplæring for børn, unge og voksne."
+      }
+    }
+  },
+  "parentsPage": {
+    "backHome": "Hjem",
+
+    "title": "Forældrenes Koordinationsafdeling",
+
+    "heading": "Et stærkt fællesskab af forældre i tro og enhed",
+
+    "description1": "Forældrenes koordinationsafdeling arbejder for at styrke forældre i tro, kærlighed og åndeligt fællesskab i vores kirke.",
+
+    "description2": "Afdelingen hjælper forældre med aktivt at deltage i deres børns åndelige vækst, moralske udvikling og ortodokse undervisning.",
+
+    "description3": "Derudover styrker afdelingen familiefællesskabet, fremmer deltagelse i sociale og åndelige aktiviteter og opmuntrer familier til at tjene kirken i enhed.",
+
+    "cards": {
+      "card1": {
+        "title": "Familiens Åndelige Liv",
+        "description": "Forældre støtter bøn, bibellæsning og ortodoks kristen tradition i hjemmet."
+      },
+
+      "card2": {
+        "title": "Forældrefællesskab",
+        "description": "Forældre samles i kærlighed og enhed for at dele erfaringer, støtte hinanden og vokse åndeligt sammen."
+      },
+
+      "card3": {
+        "title": "Støtte til Børn",
+        "description": "Forældre samarbejder med kirkens tjenere for at hjælpe børn med at vokse i tro, moral og kirkens tradition."
+      }
+    },
+
+    "ctaTitle": "Bliv en del af vores forældrefællesskab",
+
+    "contactButton": "Kontakt Os",
+
+    "memberButton": "Bliv Medlem"
+  },
+  "mezmurPage": {
+    "backHome": "Hjem",
+
+    "title": "Mezmur Afdeling",
+
+    "heading": "En tjeneste der priser Gud med åndelige sange og lovsang",
+
+    "description1": "Mezmur-afdelingen er organiseret for at lovprise Gud gennem åndelige sange, kirkemusik og lovsang i overensstemmelse med den Etiopiske Ortodokse Tewahedo Kirkes hellige tradition.",
+
+    "description2": "Medlemmerne lærer åndelige hymner, liturgiske melodier og festlige kirkesange og deltager aktivt i kirkens gudstjenester og ceremonier.",
+
+    "description3": "Afdelingen hjælper også børn og unge med at vokse i kirkens musikalske tradition, åndelige liv og ortodokse kultur.",
+
+    "cards": {
+      "card1": {
+        "title": "Åndelige Hymner",
+        "description": "Medlemmerne lærer kirkens hellige hymner og melodier og deltager aktivt i lovsangstjenesten."
+      },
+
+      "card2": {
+        "title": "Fest- og Gudstjenestetjeneste",
+        "description": "Afdelingen deltager i årlige højtider, liturgier og særlige åndelige programmer med mezmur-tjeneste."
+      },
+
+      "card3": {
+        "title": "Ungdomsdeltagelse",
+        "description": "Børn og unge styrkes i tro og åndeligt liv gennem deltagelse i mezmur- og lovsangstjenesten."
+      }
+    },
+
+    "ctaTitle": "Deltag i vores mezmur-tjeneste",
+
+    "contactButton": "Kontakt Os",
+
+    "memberButton": "Bliv Medlem"
+  },
+  "membersPage": {
+    "backHome": "Hjem",
+
+    "title": "Medlemsafdeling",
+
+    "heading": "Et stærkt fællesskab af tro og enhed",
+
+    "description1": "Medlemsafdelingen arbejder for at styrke kirkens medlemmer i tro, kærlighed og åndeligt fællesskab.",
+
+    "description2": "Medlemmerne deltager aktivt i liturgi, bøn, åndelige samlinger og forskellige kirkelige aktiviteter for at styrke deres åndelige liv.",
+
+    "description3": "Derudover deltager medlemmerne aktivt i kirkens tjenester, højtider og sociale aktiviteter og styrker fællesskabet i kirken.",
+
+    "cards": {
+      "card1": {
+        "title": "Åndeligt Fællesskab",
+        "description": "De troende styrkes i deres tro gennem deltagelse i bøn, liturgi og åndelige samlinger."
+      },
+
+      "card2": {
+        "title": "Tjenestedeltagelse",
+        "description": "Medlemmerne deltager frivilligt i forskellige kirkelige tjenester og bidrager til fællesskabet."
+      },
+
+      "card3": {
+        "title": "Kærlighed og Enhed",
+        "description": "Menigheden støtter hinanden i kærlighed, omsorg og enhed."
+      }
+    },
+
+    "ctaTitle": "Bliv en del af vores menighedsfællesskab",
+
+    "contactButton": "Kontakt Os",
+
+    "supportButton": "Støt Kirken"
+  },
+  "educationSection": {
+    "backHome": "Hjem",
+
+    "title": "Undervisningsafdeling",
+
+    "heading": "Åndelig læring og ortodoks undervisning",
+
+    "description1": "Undervisningsafdelingen arbejder for at styrke børn, unge og voksne i den etiopisk-ortodokse tro og undervisning.",
+
+    "description2": "Afdelingen tilbyder undervisning i Bibelen, kirkens historie, traditioner, liturgi, salmer og kristen moral.",
+
+    "description3": "Under vejledning af præster og lærere deltager eleverne i forskellige undervisnings- og åndelige aktiviteter for at vokse i tro og åndeligt liv.",
+
+    "cards": {
+      "card1": {
+        "title": "Bibelundervisning",
+        "description": "Eleverne styrker deres åndelige forståelse gennem undervisning i Guds ord."
+      },
+
+      "card2": {
+        "title": "Kirkens Tradition",
+        "description": "Der undervises i den etiopisk-ortodokse kirkes historie, traditioner og liturgiske liv."
+      },
+
+      "card3": {
+        "title": "Åndelig Vækst",
+        "description": "Eleverne vokser i tro gennem deltagelse i bøn, lovsang og åndelige aktiviteter."
+      }
+    },
+
+    "ctaTitle": "Deltag i vores undervisningsafdeling",
+
+    "contactButton": "Kontakt Os",
+
+    "joinButton": "Bliv Medlem"
+  },
+  "aboutDetail": {
+    "backHome": "Hjem",
+    "pageTitle": "Om vores kirke",
+    "fatherMessageTitle": "Budskab fra vores præst",
+    "holyIntro": "I Faderens, Sønnens og Helligåndens navn, én Gud. Amen.",
+    "fatherMessage1": "Debre Mihret Kidus Amanuel Kirke i Danmark er et åndeligt hjem for den etiopisk-ortodokse Tewahedo-menighed. Vores kirke arbejder for at tjene de troende gennem bøn, undervisning, liturgi og åndeligt fællesskab i overensstemmelse med Det Hellige Evangelium, den apostolske tradition og kirkens hellige orden.",
+    "fatherMessage2": "I dette land er det et stort ansvar at bevare og videregive vores tro, sprog, kultur og kirkelige tradition til vores børn. Derfor opfordrer jeg alle troende til i kærlighed, enhed og engagement at støtte kirken og deltage aktivt i dens tjenester.",
+    "fatherMessage3": "Må Gud styrke os alle i troen, forene os i kærlighed og gøre os trofaste i tjenesten for Hans hus. Ved Sankt Emanuels forbøn og gennem Guds Moders, Den Hellige Jomfru Marias, bønner beder jeg om velsignelse og vækst for vores kirke.",
+    "thanksgiving": "Ære være den Højeste Gud. Amen.",
+    "fatherName": "Melake Mihret Qomos Aba Zemikael",
+    "foundationTitle": "Kirkens grundlæggelse",
+    "foundationText1": "Den Etiopiske Ortodokse Tewahedo Kirke i Danmark blev grundlagt i København i 2009 af trofaste fædre, mødre, brødre og søstre, som samledes i enhed. Formålet var at bevare og videregive den etiopisk-ortodokse tro, kultur, sprog og åndelige værdier til kommende generationer.",
+    "foundationText2": "Siden begyndelsen har menigheden arbejdet i enhed og trofasthed, overvundet mange udfordringer og nået det niveau, den har i dag. Vi tror, at dette er sket ved Guds nåde og gennem de helliges bønner.",
+    "foundationText3": "Den 6. januar 2013 fik kirken navnet “Debre Mihret Kidus Amanuel Kirke”. I 2024 kom kirken under stiftet for de nordiske lande og Grækenland og modtog sit nuværende navn.",
+    "foundationText4": "Kirken har udarbejdet og anvender opdaterede vedtægter for at styrke sin administration i overensstemmelse med kirkelig orden og dansk lovgivning.",
+    "structureTitle": "Kirkens struktur",
+    "structureButton": "Læs mere om strukturen",
+    "departmentsTitle": "Tjenesteafdelinger",
+    "clergyTitle": "Præster og diakoner",
+    "clergySubtitle": "I vores lokale kirke tjener 2 præster og mere end 10 diakoner trofast.",
+    "departments": {
+      "office": {
+        "title": "Menighedsrådets kontor",
+        "text": "Består af kirkens administrator, næstformand og sekretær."
+      },
+      "accounting": {
+        "title": "Regnskabsafdeling",
+        "text": "Ansvarlig for indtægter, udgifter og rapportering."
+      },
+      "gospel": {
+        "title": "Evangelie- og undervisningsafdeling",
+        "text": "Forkyndelse af Evangeliet og åndelig undervisning."
+      },
+      "property": {
+        "title": "Ejendomsafdeling",
+        "text": "Administration og opfølgning af kirkens ejendele."
+      },
+      "additional": {
+        "title": "Yderligere afdelinger",
+        "text": "Informationsteknologi, PR, undervisning og udvikling."
+      }
+    },
+    "team": {
+      "abaZemikael": "Melake Mihret Qomos Aba Zemikael",
+      "kesisEndale": "Kesis Endale Assefa Gebre",
+      "dNahom": "Deacon Nahom Tadele",
+      "dHiruy": "Deacon Hiruy Yohannes",
+      "dBuruk": "Deacon Buruk Tesfaye",
+      "dYonas": "Deacon Yonas Yohannes",
+      "dBekael": "Deacon Bekael Matias"
+    }
+  }
+}
