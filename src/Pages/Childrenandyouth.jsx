@@ -1,5 +1,5 @@
-import child from "../assets/Images/EducationSection.png";
-import child1 from "../assets/Images/BegenaMezemur.jpg";
+import child from "../assets/Images/educationSection.png";
+import child1 from "../assets/Images/begenaMezemur.jpg";
 import child2 from "../assets/Images/image01.jpg";
 import child3 from "../assets/Images/image04.jpg";
 
