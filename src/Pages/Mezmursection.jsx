@@ -1,6 +1,6 @@
-import child from "../assets/Images/educationSection.png";
+import child from "../assets/Images/mezemurnew.jpg";
 import child1 from "../assets/Images/begenaMezemur.jpg";
-import child2 from "../assets/Images/image01.jpg";
+import child2 from "../assets/Images/mezmure2.jpg";
 import child3 from "../assets/Images/image04.jpg";
 
 import { FaBackward } from "react-icons/fa";

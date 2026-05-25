@@ -174,14 +174,14 @@ useEffect(() => {
 							{t("header.donation")}
 						</Nav.Link>
 
-						<Nav.Link
+						{/* <Nav.Link
 						as={Link}
 							to="/"
 							onClick={handleCloseMenu}
 							className="fw-bold text-dark"
 						>
 							{t("header.news")}
-						</Nav.Link>
+						</Nav.Link> */}
 						<NavDropdown
 							title={<span className="fw-bold text-dark">{t("header.gallery")}</span>}
 							id="gallery-dropdown"

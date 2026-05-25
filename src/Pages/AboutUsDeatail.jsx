@@ -15,12 +15,12 @@ import { FaPhone, FaEnvelope } from "react-icons/fa";
 import about from "../assets/Images/image06.jpg";
 import chart from "../assets/Images/chart123.jpeg";
 
-import team1 from "../assets/Images/team-1.jpg";
+import team1 from "../assets/Images/nahom.jpg";
 import team2 from "../assets/Images/team-2.jpg";
-import team3 from "../assets/Images/team-3.jpg";
+import team3 from "../assets/Images/biruk.jpg";
 import team4 from "../assets/Images/team-4.jpg";
 import team5 from "../assets/Images/team-5.jpg";
-import team6 from "../assets/Images/team-6.jpg";
+import team6 from "../assets/Images/abaforprofil.jpg";
 import ChurchImg from "../assets/Images/aba.jpeg";
 import Dicons from "../assets/Images/dicons.jpg";
 
@@ -34,7 +34,7 @@ function AboutUsDetail() {
 		{ name: t("aboutDetail.team.dHiruy"), img: team4 },
 		{ name: t("aboutDetail.team.dBuruk"), img: team3 },
 		{ name: t("aboutDetail.team.dYonas"), img: team5 },
-		{ name: t("aboutDetail.team.dBekael"), img: team3 },
+		{ name: t("aboutDetail.team.dBekael"), img: team4 },
 	];
 
 	const serviceDepartments = [
