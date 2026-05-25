@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 
-import Img1 from "../assets/Images/EducationSection.png";
+import Img1 from "../assets/Images/educationSection.png";
 import Img2 from "../assets/Images/mezemure4.jpg";
 import Img3 from "../assets/Images/Children.jpg";
 import Img4 from "../assets/Images/image02.jpg";
