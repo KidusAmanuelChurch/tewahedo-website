@@ -1,7 +1,7 @@
 import { useRef, useState, useEffect } from "react";
 import { useTranslation } from "react-i18next";
 
-import audioFile from "../assets/images/Kidase.mp3";
+import audioFile from "../assets/images/kidase.mp3";
 import ChurchImg from "../assets/Images/ChruchBuilding.jpg";
 
 function BibleVerse() {
