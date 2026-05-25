@@ -15,8 +15,6 @@ function Body() {
   return (
 		<>
 			<Slider />
-			{/* <WelcomeSection /> */}
-
 			<BibleVerse />
 			<AboutUs />
 			<ChurchHighlights />
