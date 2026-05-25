@@ -19,7 +19,7 @@ import ContactPage from "./Pages/ContactPage";
 import ListofCommite from "./Pages/ListofCommite"
 import VideoGallery from "./Pages/VideoGallery";
 
-import DonationPage from "./pages/DonationPage";
+import DonationPage from "./Pages/DonationPage";
 import ScrollToTop from "../src/Components/ScrollToTop";
 import ChartDetail from "../src/Pages/ChartDetail";
 import Services from "../src/Pages/Services";
