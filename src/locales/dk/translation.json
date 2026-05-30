@@ -160,6 +160,9 @@
     "newsletterMessage": "Beklager, denne funktion er stadig under udvikling. Den vil snart være tilgængelig.",
     "copyright": "Copyright © 2026",
     "copyrightName": "Debre Mihret Kidus Amanuel Kirke, København, Danmark",
+    "officialWebsite": "Denne hjemmeside er den officielle hjemmeside for Debre Mihret Sankt Emmanuel Etiopisk-Ortodokse Tewahedo Kirke i Danmark.",
+    "privacyPolicy": "Privatlivspolitik",
+    
     "links": {
       "wudasieMaryam": "Wudasie Maryam på dansk",
       "ethiopianChurch": "Den Etiopiske Ortodokse Tewahedo Kirkes tro og orden",
@@ -566,6 +569,87 @@
       "dBuruk": "Deacon Buruk Tesfaye",
       "dYonas": "Deacon Yonas Yohannes",
       "dBekael": "Deacon Bekael Matias"
+    }},
+
+
+
+    "privacyPolicy": {
+  "backHome": "Hjem",
+  "title": "Privatlivspolitik",
+  "lastUpdated": "Senest opdateret: 2026",
+  "intro": "Denne privatlivspolitik forklarer, hvordan oplysninger behandles, når du besøger vores hjemmeside, kontakter kirken eller ser billeder, videoer og indlejrede tjenester på hjemmesiden.",
+  "contactTitle": "Har du spørgsmål?",
+  "contactText": "Hvis du har spørgsmål om privatliv, billeder, video eller behandling af oplysninger, er du velkommen til at kontakte kirken.",
+  "sections": [
+    {
+      "title": "1. Hvem vi er",
+      "paragraphs": [
+        "Denne hjemmeside er den officielle hjemmeside for Debre Mihret Sankt Emmanuel Etiopisk-Ortodokse Tewahedo Kirke i Danmark.",
+        "Adresse: Roskildevej 303, 2630 Taastrup, Danmark."
+      ]
+    },
+    {
+      "title": "2. Hvilke oplysninger vi indsamler",
+      "paragraphs": [
+        "Vores hjemmeside er primært en informationshjemmeside. Vi bruger ikke brugerlogin, medlemskonti eller direkte onlinebetaling via hjemmesiden.",
+        "Hvis du kontakter os via kontaktformular eller e-mail, kan vi modtage de oplysninger, du selv sender til os."
+      ],
+      "items": [
+        "Navn",
+        "E-mailadresse",
+        "Telefonnummer, hvis det oplyses",
+        "Indholdet af din besked"
+      ]
+    },
+    {
+      "title": "3. Hvordan vi bruger oplysninger",
+      "paragraphs": [
+        "Vi bruger de oplysninger, du giver os, til at besvare henvendelser, give information om kirken og koordinere kirkelige, åndelige og sociale aktiviteter.",
+        "Vi sælger ikke personoplysninger og bruger dem ikke til kommerciel markedsføring eller reklameformål."
+      ]
+    },
+    {
+      "title": "4. Brug af billeder og video",
+      "paragraphs": [
+        "Der kan blive taget billeder og video under gudstjenester, kirkelige højtider, søndagsskole, undervisning, børne- og ungdomsaktiviteter samt andre kirkelige arrangementer.",
+        "Billeder og videoer kan blive brugt på kirkens hjemmeside, sociale medier eller andre kirkelige kommunikationskanaler for at vise kirkens åndelige liv, undervisning, tjeneste og fællesskab.",
+        "Når det gælder børn, bestræber vi os på at bruge billeder i gruppe­sammenhæng og uden at nævne børns fulde navne. Vi ønsker ikke at bruge billeder, der udstiller, skader eller unødigt eksponerer børn.",
+        "Hvis du ikke ønsker, at billeder eller video af dig eller dit barn offentliggøres på kirkens hjemmeside eller sociale medier, bedes du kontakte kirken. Vi vil bestræbe os på at respektere rimelige anmodninger."
+      ]
+    },
+    {
+      "title": "5. Oplysninger om præster, diakoner, tjenere og menighedsråd",
+      "paragraphs": [
+        "På hjemmesiden kan der vises navn, rolle, billede eller tjenesteoplysninger om præster, diakoner, menighedsrådsmedlemmer og andre tjenere i kirken.",
+        "Formålet er at skabe gennemsigtighed om kirkens tjeneste, administration og åndelige arbejde. Personer, der ikke ønsker at blive vist med navn eller billede, kan kontakte kirken."
+      ]
+    },
+    {
+      "title": "6. Indlejrede tredjepartstjenester",
+      "paragraphs": [
+        "Hjemmesiden kan indeholde indlejrede tjenester som Google Maps og YouTube-videoer.",
+        "Disse tjenester drives af Google eller andre tredjeparter og kan behandle tekniske oplysninger eller bruge cookies i henhold til deres egne privatlivspolitikker."
+      ]
+    },
+    {
+      "title": "7. Sikkerhed og opbevaring",
+      "paragraphs": [
+        "Vi bestræber os på at behandle personoplysninger med passende omhu. Oplysninger sendt via kontaktformular eller e-mail opbevares kun, så længe det er nødvendigt for formålet med henvendelsen eller af lovlige/administrative grunde.",
+        "Billeder og videoer kan opbevares til dokumentation af kirkens historie, åndelige tjeneste og fællesskab. Anmodninger om fjernelse vurderes konkret."
+      ]
+    },
+    {
+      "title": "8. Dine rettigheder",
+      "paragraphs": [
+        "Efter databeskyttelsesreglerne kan du anmode om indsigt i oplysninger om dig, bede om rettelse af urigtige oplysninger eller, hvor det er relevant, anmode om sletning.",
+        "Datatilsynet er den danske databeskyttelsesmyndighed og giver vejledning om GDPR-rettigheder og forpligtelser."
+      ]
     }
-  }
+  ]
 }
+    
+    
+  }
+ 
+
+

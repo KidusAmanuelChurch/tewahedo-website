@@ -1,5 +1,6 @@
 import { useState } from "react";
 import Lightbox from "yet-another-react-lightbox";
+import Zoom from "yet-another-react-lightbox/plugins/zoom";
 import "yet-another-react-lightbox/styles.css";
 import { FaBackward } from "react-icons/fa";
 import { Link } from "react-router-dom";
@@ -109,11 +110,17 @@ function Gallery() {
 				})}
 
 				<Lightbox
-					open={open}
-					close={() => setOpen(false)}
-					slides={currentImages}
-					index={index}
-				/>
+	open={open}
+	close={() => setOpen(false)}
+	slides={currentImages}
+	index={index}
+	plugins={[Zoom]}
+	zoom={{
+		maxZoomPixelRatio: 3,
+		zoomInMultiplier: 2,
+		scrollToZoom: true,
+	}}
+/>
 			</div>
 
 			<style>{`

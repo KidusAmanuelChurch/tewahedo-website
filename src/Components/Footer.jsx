@@ -39,6 +39,7 @@ function Footer() {
 									<div className="widget-text margin-bottom-30">
 										<p>{t("footer.description")}</p>
 									</div>
+									
 
 									<p>{t("footer.serviceTime")}</p>
 								</div>
@@ -53,6 +54,7 @@ function Footer() {
 </div>
 
 									<ul className="footer-links list-unstyled">
+										
 										<li>
 											<a
 												href={WudasieMaryam}
@@ -92,6 +94,7 @@ function Footer() {
 												{t("footer.links.kibreNegest")}
 											</a>
 										</li>
+										
 									</ul>
 								</div>
 
@@ -109,7 +112,16 @@ function Footer() {
 									<Link className="btn btn-default text-white" to="/contact">
 										{t("footer.contactButton")}
 									</Link>
+									<br></br><br></br>
+									
+									<li>
+										
+		<Link to="/privacy-policy">
+			{t("footer.privacyPolicy")}
+		</Link>
+	</li>
 								</div>
+								
 
 								{/* SOCIAL + NEWSLETTER */}
 								<div className="col-lg-3 widget contact-info-widget">
@@ -142,7 +154,10 @@ function Footer() {
 													>
 														{t("footer.signUp")}
 													</button>
+													
 												</div>
+												
+												
 											</div>
 
 											{message && (
@@ -160,9 +175,15 @@ function Footer() {
 						</div>
 
 					</div>
+					
 				</div>
 
 				<div className="footer-copyright">
+	<div className="text-center mb-2">
+	<small>
+		{t("footer.officialWebsite")}
+	</small>
+</div>
 					<div className="footer-bottom-wrap pad-tb-20 typo-white">
 						<div className="container">
 							<div className="row">
