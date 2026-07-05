@@ -190,6 +190,45 @@ function Educationsection() {
 									</div>
 
 								</div>
+								<div className="row mt-5">
+	<div className="col-lg-12">
+		<div className="bg-white p-4 p-md-5 shadow rounded">
+			<h2 className="text-success text-center mb-3">
+				{t("mezmurPage.responsibilitiesTitle")}
+			</h2>
+
+			<p className="text-center mb-4">
+				{t("mezmurPage.responsibilitiesIntro")}
+			</p>
+
+			<div className="row">
+				{t("mezmurPage.responsibilities", { returnObjects: true }).map(
+					(item, index) => (
+						<div className="col-md-6 mb-3" key={index}>
+							<div className="d-flex align-items-start gap-3 h-100">
+								<div
+									className="rounded-circle bg-success text-white d-flex align-items-center justify-content-center flex-shrink-0"
+									style={{
+										width: "32px",
+										height: "32px",
+										fontSize: "14px",
+										fontWeight: "bold",
+									}}
+								>
+									{index + 1}
+								</div>
+
+								<p className="mb-0">
+									{item}
+								</p>
+							</div>
+						</div>
+					)
+				)}
+			</div>
+		</div>
+	</div>
+</div>
 
 								<div className="text-center mt-5">
 

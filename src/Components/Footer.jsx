@@ -95,6 +95,16 @@ function Footer() {
 											</a>
 										</li>
 										
+										<li>
+											<a
+												href="https://debelo.org/"
+												target="_blank"
+												rel="noopener noreferrer"
+											>
+												{t("footer.links.debeloLink")}
+											</a>
+										</li>
+										
 									</ul>
 								</div>
 

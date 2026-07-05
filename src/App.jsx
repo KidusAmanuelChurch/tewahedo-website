@@ -23,6 +23,7 @@ import DonationPage from "./Pages/DonationPage";
 import ScrollToTop from "../src/Components/ScrollToTop";
 import ChartDetail from "../src/Pages/ChartDetail";
 import Services from "../src/Pages/Services";
+import Events from "../src/Pages/Eventsdetail";
 import PrivacyPolicy from "../src/Pages/PrivacyPolicy";
 
 
@@ -61,6 +62,7 @@ function App() {
 				<Route path="/donation" element={<DonationPage />} />
 				<Route path="/chartdetail" element={<ChartDetail />} />
 				<Route path="/services" element={<Services />} />
+				<Route path="/events" element={<Events />} />
 				<Route path="/privacy-policy" element={<PrivacyPolicy />} />
 			</Routes>
 			<Footer />

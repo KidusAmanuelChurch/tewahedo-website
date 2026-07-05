@@ -141,9 +141,9 @@ function AboutUsDetail() {
 						<br />
 						{t("aboutDetail.foundationText2")}
 						<br />
-						{t("aboutDetail.foundationText3")}
+						{/* {t("aboutDetail.foundationText3")}
 						<br />
-						{t("aboutDetail.foundationText4")}
+						{t("aboutDetail.foundationText4")} */}
 					</p>
 				</div>
 			</div>

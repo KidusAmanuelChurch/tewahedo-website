@@ -165,14 +165,7 @@ useEffect(() => {
 
 						{/* DROPDOWN */}
 
-						<Nav.Link
-							as={Link}
-							to="/donation"
-							onClick={handleCloseMenu}
-							className="fw-bold text-dark"
-						>
-							{t("header.donation")}
-						</Nav.Link>
+						
 
 						{/* <Nav.Link
 						as={Link}
@@ -213,7 +206,15 @@ useEffect(() => {
 						</Nav.Link>
 						<Nav.Link
 							as={Link}
-							to="/"
+							to="/donation"
+							onClick={handleCloseMenu}
+							className="fw-bold text-dark"
+						>
+							{t("header.donation")}
+						</Nav.Link>
+						<Nav.Link
+							as={Link}
+							to="/events"
 							onClick={handleCloseMenu}
 							className="fw-bold text-dark"
 						>

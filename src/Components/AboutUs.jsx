@@ -50,6 +50,9 @@ function AboutUs() {
 								<p className="margin-bottom-20">
 									{t("about.paragraph3")}
 								</p>
+								<p className="margin-bottom-20">
+									{t("about.paragraph4")}
+								</p>
 							</div>
 						</div>
 
