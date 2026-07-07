@@ -451,9 +451,9 @@ function ChildrenAndYouth() {
 										{t("childrenAndYouthPage.contactButton")}
 									</Link>
 
-									<Link to="/members" className="btn btn-outline-primary">
+									{/* <Link to="/members" className="btn btn-outline-primary">
 										{t("childrenAndYouthPage.joinButton")}
-									</Link>
+									</Link> */}
 								</div>
 
 							</div>

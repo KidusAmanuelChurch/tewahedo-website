@@ -451,7 +451,7 @@
   "Afdelingen arbejder for, at nødvendige redskaber og materialer til mezmur-tjenesten er til rådighed, og at de bruges med omhu.",
   "I samarbejde med undervisningsafdelingen arrangerer afdelingen efter behov undervisning om Sankt Yared, den yarediske sangtradition og kirkens musikalske redskaber.",
   "Afdelingen har interne retningslinjer, som godkendes af den udøvende komité."
-],
+],"ctaDescription": "Vi inviterer alle, der ønsker at tjene Gud gennem mezmur, lovsang og den hellige yarediske sangtradition.",
 
     "ctaTitle": "Deltag i vores mezmur-tjeneste",
 
@@ -706,11 +706,14 @@
   "ctaTitle": "Har du spørgsmål om et arrangement?",
   "ctaDescription": "Kontakt kirken, hvis du ønsker mere information om dato, tidspunkt, sted eller deltagelse.",
   "contactButton": "Kontakt os",
-  "status": {
-    "upcoming": "Kommende",
-    "finished": "Afsluttet",
-    "info": "Information"
-  },
+  "weeklyTitle": "Ugentlige gudstjenester",
+"upcomingTitle": "Kommende arrangementer",
+"status": {
+  "weekly": "Ugentligt",
+  "upcoming": "Kommende",
+  "finished": "Afsluttet",
+  "info": "Information"
+},
   "events": {
     "kidase": {
       "date": "Hver lørdag",
