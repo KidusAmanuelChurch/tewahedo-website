@@ -9631,13 +9631,22 @@ body {
 }
 
 
-/* for language switcher */
-
+/* ==============================
+   MOBILE MENU TOGGLE
+============================== */
 
 .custom-toggle {
 	border: none !important;
 	box-shadow: none !important;
-	padding: 6px 10px;
+	background: transparent !important;
+	padding: 4px 8px;
+	/* margin-left: 10px; */
+}
+
+.custom-toggle:focus,
+.custom-toggle:active {
+	box-shadow: none !important;
+	outline: none !important;
 }
 
 .toggle-icon {
@@ -9647,20 +9656,63 @@ body {
 	line-height: 1;
 }
 
-.language-switcher button {
-	border-radius: 30px;
-	padding: 6px 12px;
-	transition: all 0.3s ease;
+
+/* ==============================
+   LANGUAGE SWITCHER
+============================== */
+
+/* ==============================
+   HEADER CONTAINER
+============================== */
+
+
+
+
+
+
+/* ==============================
+   MOBILE MENU TOGGLE
+============================== */
+
+
+
+
+
+
+/* ==============================
+   LANGUAGE SWITCHER
+============================== */
+
+.language-switcher {
+	display: flex;
+	align-items: center;
+	gap: 6px;
+	margin-left: auto;
+	margin-right: 4px;
+	width: auto !important;
+	justify-content: flex-end !important;
 }
 
-.language-switcher button:hover {
-	transform: translateY(-2px);
+.language-switcher svg {
+	cursor: pointer;
+	border-radius: 4px;
+	opacity: 0.6;
+	transition: all .25s ease;
 }
 
-@media (max-width: 991px) {
-	.language-switcher {
-		justify-content: center;
-		width: 100%;
-		margin-top: 15px;
-	}
+.language-switcher svg:hover {
+	opacity: 1;
+	transform: scale(1.15);
 }
+
+.language-switcher .active-flag {
+	opacity: 1;
+	transform: scale(1.15);
+	box-shadow: 0 0 0 2px white;
+}
+
+
+
+
+
+
