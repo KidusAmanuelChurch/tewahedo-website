@@ -105,12 +105,16 @@ function AboutUsDetail() {
 							</div>
 
 							<br />
+							
 
 							<h5>{t("aboutDetail.holyIntro")}</h5>
+							<br />
 
-							<p>{t("aboutDetail.fatherMessage1")}</p>
+							{/* <p>{t("aboutDetail.fatherMessage1")}</p>
 							<p>{t("aboutDetail.fatherMessage2")}</p>
-							<p>{t("aboutDetail.fatherMessage3")}</p>
+							<p>{t("aboutDetail.fatherMessage3")}</p> */}
+							
+							<h2>በቅርብ ጊዜ ውስጥ የአባታችን መልአከ ምሕረት ቆሞስ አባ ዘሚካኤል መልእክት እዚህ ይካተታል።</h2>
 
 							<br />
 
