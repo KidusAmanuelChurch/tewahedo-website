@@ -16,10 +16,10 @@ import about from "../assets/Images/image06.jpg";
 import chart from "../assets/Images/chart123.jpeg";
 
 import team1 from "../assets/Images/nahom.jpg";
-import team2 from "../assets/Images/team-2.jpg";
+import team2 from "../assets/Images/team2.png";
 import team3 from "../assets/Images/biruk.jpg";
-import team4 from "../assets/Images/team-4.jpg";
-import team5 from "../assets/Images/team-5.jpg";
+import team4 from "../assets/Images/team2.png";
+import team5 from "../assets/Images/team2.png";
 import team6 from "../assets/Images/abaforprofil.jpg";
 import ChurchImg from "../assets/Images/aba.jpeg";
 import Dicons from "../assets/Images/dicons.jpg";
@@ -107,19 +107,35 @@ function AboutUsDetail() {
 							<br />
 							
 
-							<h5>{t("aboutDetail.holyIntro")}</h5>
-							<br />
+						<h5 className="fst-italic text-center mb-4">
+  {t("aboutDetail.verse")}
+</h5>
 
-							{/* <p>{t("aboutDetail.fatherMessage1")}</p>
-							<p>{t("aboutDetail.fatherMessage2")}</p>
-							<p>{t("aboutDetail.fatherMessage3")}</p> */}
-							
-							<h2>በቅርብ ጊዜ ውስጥ የአባታችን መልአከ ምሕረት ቆሞስ አባ ዘሚካኤል መልእክት እዚህ ይካተታል።</h2>
+<h5>{t("aboutDetail.holyIntro")}</h5>
 
-							<br />
+<p>{t("aboutDetail.fatherMessage1")}</p>
 
-							<p className="fw-semibold mt-3">{t("aboutDetail.thanksgiving")}</p>
-							<h4 className="fw-semibold mt-3">{t("aboutDetail.fatherName")}</h4>
+<p>{t("aboutDetail.fatherMessage2")}</p>
+
+<p>{t("aboutDetail.fatherMessage3")}</p>
+
+<p>{t("aboutDetail.fatherMessage4")}</p>
+
+<p>{t("aboutDetail.fatherMessage5")}</p>
+
+<p>{t("aboutDetail.fatherMessage6")}</p>
+
+<p className="fw-semibold">
+  {t("aboutDetail.fatherMessage7")}
+</p>
+
+<h4 className="mt-4 fw-bold">
+  {t("aboutDetail.fatherName")}
+</h4>
+
+<p className="text-muted">
+  {t("aboutDetail.fatherPosition")}
+</p>
 						</div>
 
 						<div className="col-lg-6 text-center">

@@ -453,12 +453,12 @@ import { useTranslation } from "react-i18next";
 import about from "../assets/Images/committe.jpg";
 import chart from "../assets/Images/chartofmembers.jpg";
 
-import team1 from "../assets/Images/team-1.jpg";
-import team2 from "../assets/Images/team-2.jpg";
-import team3 from "../assets/Images/team-3.jpg";
-import team4 from "../assets/Images/team-4.jpg";
-import team5 from "../assets/Images/team-5.jpg";
-import team6 from "../assets/Images/team-6.jpg";
+import team1 from "../assets/Images/team2.png";
+import team2 from "../assets/Images/team2.png";
+import team3 from "../assets/Images/team2.png";
+import team4 from "../assets/Images/team2.png";
+import team5 from "../assets/Images/team2.png";
+import team6 from "../assets/Images/team2.png";
 
 function AboutUsDetail() {
 

@@ -17,7 +17,7 @@
     "photoGallery": "Foto Galleri",
     "videoGallery": "Video Galleri",
     "contact": "Kontakt Os",
-    "events": "Begivenheder"
+    "events": "Begivenheder","priestBooking": "Book samtale med præst"
   },
 
   "slider": {
@@ -38,9 +38,26 @@
     },
     "button": "Bliv medlem"
   },
-  "bibleVerse": { "welcome": "Velkommen", "holyText": "I Faderens, Sønnens og Helligåndens navn, én Gud. Amen.", "paragraph1": "Velkommen til hjemmesiden for Debre Mihret Sankt Emmanuel Etiopisk-Ortodokse Tewahedo Kirke i København, Danmark. Vi glæder os over dit besøg og håber, at denne hjemmeside vil være til åndelig opbyggelse og inspiration.", "paragraph2": "Vores mission og vision er at leve efter og forkynde vor Herre Jesu Kristi hellige evangelium samt at vejlede børn og unge, så de vokser op i den ortodokse tro, kristne værdier og et liv præget af god moral.", "paragraph3": "Vores kirke er et åndeligt fællesskab, hvor de troende samles for at tilbede Gud, vokse i troen, styrke fællesskabet og tjene hinanden i Kristi kærlighed.", "paragraph4": "På denne hjemmeside kan du finde information om den Etiopisk-Ortodokse Tewahedo Kirkes tro, vores gudstjenester, kirkelige aktiviteter og menighedsliv.", "thankyou": "Tak fordi du besøger vores hjemmeside. Må Gud velsigne dig.", "verse": "“Jeg glædede mig, da man sagde til mig: Lad os gå til Herrens hus.”", "verseRef": "Salme 122,1" },
+  "bibleVerse": {
+    "welcome": "Velkommen",
+    "holyText": "I Faderens, Sønnens og Helligåndens navn, én Gud. Amen.",
+    "paragraph1": "Velkommen til hjemmesiden for Debre Mihret Sankt Emmanuel Etiopisk-Ortodokse Tewahedo Kirke i København, Danmark. Vi glæder os over dit besøg og håber, at denne hjemmeside vil være til åndelig opbyggelse og inspiration.",
+    "paragraph2": "Vores mission og vision er at leve efter og forkynde vor Herre Jesu Kristi hellige evangelium samt at vejlede børn og unge, så de vokser op i den ortodokse tro, kristne værdier og et liv præget af god moral.",
+    "paragraph3": "Vores kirke er et åndeligt fællesskab, hvor de troende samles for at tilbede Gud, vokse i troen, styrke fællesskabet og tjene hinanden i Kristi kærlighed.",
+    "paragraph4": "På denne hjemmeside kan du finde information om den Etiopisk-Ortodokse Tewahedo Kirkes tro, vores gudstjenester, kirkelige aktiviteter og menighedsliv.",
+    "thankyou": "Tak fordi du besøger vores hjemmeside. Må Gud velsigne dig.",
+    "verse": "“Jeg glædede mig, da man sagde til mig: Lad os gå til Herrens hus.”",
+    "verseRef": "Salme 122,1","priestBooking": "Book samtale med præst"
+  },
 
- "about": { "title": "Om vores kirke", "paragraph1": "Før grundlæggelsen af Debre Mihret Sankt Emmanuel Etiopisk-Ortodokse Tewahedo Kirke i København samledes etiopiske studerende og troende ved danske videregående uddannelsesinstitutioner i såkaldte Tsuwa-fællesskaber. Her studerede de Guds ord, bad sammen og bevarede deres åndelige fællesskab. Efterhånden som dette kirkelige liv voksede, blev menigheden officielt grundlagt den 21. marts 2010 (12. Megabit 2002 E.C.) med velsignelse og godkendelse fra Hans Eminence Abune Entons, der på daværende tidspunkt var ærkebiskop for Det Nordlige Europas Stift. Ved kirkens grundlæggelse blev Qomos Aba Zemikael Deressa udnævnt som menighedens første præst og administrator.", "paragraph2": "Ved grundlæggelsen havde kirken ingen faste præster eller diakoner ud over kirkens administrator, Qomos Aba Zemikael. Derfor blev diakoner, som opholdt sig i Danmark i forbindelse med studier, og lejlighedsvis også diakoner fra den Eritreisk-Ortodokse Tewahedo Kirke, inviteret til midlertidigt at bistå ved den Hellige Liturgi, som dengang blev fejret hver anden uge. Selvom menigheden gennem årene har mødt mange udfordringer, er den vokset støt gennem Guds nåde, den åndelige ledelse fra kirkens præst og menighedens store engagement. I dag har kirken uddannet og forberedt mere end ti diakoner til tjeneste. Den største udfordring gennem denne udvikling har været manglen på et permanent gudstjenestested. I mange år blev gudstjenester afholdt i lånte lokaler hos forskellige kirker.", "paragraph3": "Fra 2020 blev det stadig vanskeligere at finde midlertidige lokaler til gudstjenester. For at løse denne langvarige udfordring blev der den 5. august 2023 afholdt en ekstraordinær menighedsforsamling, hvor der blev truffet en historisk beslutning om at købe en permanent kirkeejendom og et fast gudstjenestested.", "paragraph4": "Under ledelse af Qomos Aba Zemikael og med stor opbakning fra hele menigheden blev der indsamlet de nødvendige midler til at købe kirkens egen ejendom. Den historiske ejendom blev velsignet af Hans Eminence Abune Elias, ærkebiskop for Det Nordiske og Græske Stift, hvor grundstenen blev nedlagt. I dag er opførelsen og udviklingen af kirkens nye bygning i god fremdrift, og projektet fortsætter med Guds hjælp og menighedens fælles indsats.", "button": "Læs mere" },
+  "about": {
+    "title": "Om vores kirke",
+    "paragraph1": "Før grundlæggelsen af Debre Mihret Sankt Emmanuel Etiopisk-Ortodokse Tewahedo Kirke i København samledes etiopiske studerende og troende ved danske videregående uddannelsesinstitutioner i såkaldte Tsuwa-fællesskaber. Her studerede de Guds ord, bad sammen og bevarede deres åndelige fællesskab. Efterhånden som dette kirkelige liv voksede, blev menigheden officielt grundlagt den 21. marts 2010 (12. Megabit 2002 E.C.) med velsignelse og godkendelse fra Hans Eminence Abune Entons, der på daværende tidspunkt var ærkebiskop for Det Nordlige Europas Stift. Ved kirkens grundlæggelse blev Qomos Aba Zemikael Deressa udnævnt som menighedens første præst og administrator.",
+    "paragraph2": "Ved grundlæggelsen havde kirken ingen faste præster eller diakoner ud over kirkens administrator, Qomos Aba Zemikael. Derfor blev diakoner, som opholdt sig i Danmark i forbindelse med studier, og lejlighedsvis også diakoner fra den Eritreisk-Ortodokse Tewahedo Kirke, inviteret til midlertidigt at bistå ved den Hellige Liturgi, som dengang blev fejret hver anden uge. Selvom menigheden gennem årene har mødt mange udfordringer, er den vokset støt gennem Guds nåde, den åndelige ledelse fra kirkens præst og menighedens store engagement. I dag har kirken uddannet og forberedt mere end ti diakoner til tjeneste. Den største udfordring gennem denne udvikling har været manglen på et permanent gudstjenestested. I mange år blev gudstjenester afholdt i lånte lokaler hos forskellige kirker.",
+    "paragraph3": "Fra 2020 blev det stadig vanskeligere at finde midlertidige lokaler til gudstjenester. For at løse denne langvarige udfordring blev der den 5. august 2023 afholdt en ekstraordinær menighedsforsamling, hvor der blev truffet en historisk beslutning om at købe en permanent kirkeejendom og et fast gudstjenestested.",
+    "paragraph4": "Under ledelse af Qomos Aba Zemikael og med stor opbakning fra hele menigheden blev der indsamlet de nødvendige midler til at købe kirkens egen ejendom. Den historiske ejendom blev velsignet af Hans Eminence Abune Elias, ærkebiskop for Det Nordiske og Græske Stift, hvor grundstenen blev nedlagt. I dag er opførelsen og udviklingen af kirkens nye bygning i god fremdrift, og projektet fortsætter med Guds hjælp og menighedens fælles indsats.",
+    "button": "Læs mere"
+  },
 
   "highlights": {
     "verse": "“Vi ved, at alt virker sammen til gode for dem, der elsker Gud.”",
@@ -72,7 +89,12 @@
   "committee": {
     "title": "Menighedens Åndelige Administrationsråd",
     "description": "Menighedens Åndelige Administrationsråd er en eksekutiv komité bestående af mellem fem og ni medlemmer valgt af menighedens generalforsamling. Rådet arbejder for at styrke kirkens apostolske tjeneste, udvikle det åndelige liv og fremme enheden blandt de troende gennem samarbejde mellem præster og menighedsmedlemmer. Derudover vurderer rådet kirkens aktiviteter, udfordringer og fremtidige planer og træffer nødvendige beslutninger til gavn for menigheden. Debre Mihret Kidus Amanuel Etiopisk Ortodokse Tewahedo Kirke ledes i overensstemmelse med kirkens vedtægter af en bestyrelse på syv medlemmer, som vælges hvert tredje år blandt præster, menighedsmedlemmer og repræsentanter fra søndagsskolen.",
-    "button": "Læs mere"
+    "button": "Læs mere",
+    "bannerTitle": "Menighedens Bestyrelse",
+
+    "bannerText": "Vi tjener Kirken i tro, kærlighed og ydmyghed og arbejder sammen for at styrke menighedens åndelige liv og fællesskab.",
+
+    "bannerVerse": "\"Lad alt ske i kærlighed.\" (1 Korintherbrev 16,14)"
   },
   "ministries": {
     "mainTitle": "Søndagsskole",
@@ -142,7 +164,8 @@
     "copyrightName": "Debre Mihret Kidus Amanuel Kirke, København, Danmark",
     "officialWebsite": "Denne hjemmeside er den officielle hjemmeside for Debre Mihret Sankt Emmanuel Etiopisk-Ortodokse Tewahedo Kirke i Danmark.",
     "privacyPolicy": "Privatlivspolitik",
-    
+    "priestBooking": "Book samtale med præst",
+
     "links": {
       "wudasieMaryam": "Wudasie Maryam på dansk",
       "ethiopianChurch": "Den Etiopiske Ortodokse Tewahedo Kirkes tro og orden",
@@ -231,39 +254,39 @@
     "title": "Undervisningsafdeling",
 
     "heading": "Søndagsskolens undervisningsafdeling",
-"paragraph1": "Undervisningsafdelingen arbejder for at udbrede åndelig undervisning i overensstemmelse med Den Etiopisk-Ortodokse Tewahedo Kirkes dogmer, kanoniske orden, tradition og kirkelige liv.",
-"paragraph2": "Afdelingen tilrettelægger undervisning for børn, unge og medlemmer i Den Hellige Skrift, kirkens historie, liturgi, kristen etik og ortodoks livsførelse.",
-"paragraph3": "Gennem undervisning, seminarer, workshops og åndelige ture hjælper afdelingen medlemmerne med at vokse i tro, viden og tjeneste.",
+    "paragraph1": "Undervisningsafdelingen arbejder for at udbrede åndelig undervisning i overensstemmelse med Den Etiopisk-Ortodokse Tewahedo Kirkes dogmer, kanoniske orden, tradition og kirkelige liv.",
+    "paragraph2": "Afdelingen tilrettelægger undervisning for børn, unge og medlemmer i Den Hellige Skrift, kirkens historie, liturgi, kristen etik og ortodoks livsførelse.",
+    "paragraph3": "Gennem undervisning, seminarer, workshops og åndelige ture hjælper afdelingen medlemmerne med at vokse i tro, viden og tjeneste.",
 
-"cards": {
-  "card1": {
-    "title": "Undervisningsplan",
-    "description": "Der udarbejdes undervisning, materialer og forløb, som tager hensyn til alder og åndeligt vidensniveau."
-  },
-  "card2": {
-    "title": "Lærere og opfølgning",
-    "description": "Kompetente lærere udvælges og koordineres, og undervisningen følges op på en ordnet måde."
-  },
-  "card3": {
-    "title": "Studie og åndelig vækst",
-    "description": "Der udarbejdes studieindhold, seminarer og åndelige programmer til styrkelse af troen."
-  }
-},
+    "cards": {
+      "card1": {
+        "title": "Undervisningsplan",
+        "description": "Der udarbejdes undervisning, materialer og forløb, som tager hensyn til alder og åndeligt vidensniveau."
+      },
+      "card2": {
+        "title": "Lærere og opfølgning",
+        "description": "Kompetente lærere udvælges og koordineres, og undervisningen følges op på en ordnet måde."
+      },
+      "card3": {
+        "title": "Studie og åndelig vækst",
+        "description": "Der udarbejdes studieindhold, seminarer og åndelige programmer til styrkelse af troen."
+      }
+    },
 
-"responsibilitiesTitle": "Undervisningsafdelingens hovedopgaver og ansvar",
-"responsibilitiesIntro": "Søndagsskolens undervisningsafdeling arbejder for at opbygge medlemmerne i åndelig viden på grundlag af Den Hellige Kirkes tro, orden og tradition. Afdelingens vigtigste opgaver omfatter:",
-"responsibilities": [
-  "At udarbejde og gennemføre undervisningsforløb, lærematerialer og pensum, som tager hensyn til alder og åndeligt vidensniveau.",
-  "At udvælge, fordele og følge op på lærere, der har åndelig viden, kristen moral og undervisningsmæssige kompetencer.",
-  "At udarbejde åndelige artikler, studiematerialer og undervisningsindhold baseret på kirkens dogmer, kanoniske orden og historie.",
-  "At organisere prøver, repetitionsspørgsmål og afslutningsprogrammer for at styrke og følge op på medlemmernes læring.",
-  "At arrangere seminarer, symposier og workshops om aktuelle sociale og åndelige emner samt om børns og unges opdragelse.",
-  "At koordinere åndelige og undervisningsmæssige ture til klostre, historiske steder og andre kirkelige steder, så medlemmerne både vokser i viden og åndelig erfaring."
-],
-"ctaTitle": "Bliv en del af vores undervisningsarbejde",
-"ctaDescription": "Vi inviterer alle til at vokse i Den Hellige Kirkes tro, undervisning og tradition.",
-"contactButton": "Kontakt os",
-"childrenButton": "Børneafdelingen"
+    "responsibilitiesTitle": "Undervisningsafdelingens hovedopgaver og ansvar",
+    "responsibilitiesIntro": "Søndagsskolens undervisningsafdeling arbejder for at opbygge medlemmerne i åndelig viden på grundlag af Den Hellige Kirkes tro, orden og tradition. Afdelingens vigtigste opgaver omfatter:",
+    "responsibilities": [
+      "At udarbejde og gennemføre undervisningsforløb, lærematerialer og pensum, som tager hensyn til alder og åndeligt vidensniveau.",
+      "At udvælge, fordele og følge op på lærere, der har åndelig viden, kristen moral og undervisningsmæssige kompetencer.",
+      "At udarbejde åndelige artikler, studiematerialer og undervisningsindhold baseret på kirkens dogmer, kanoniske orden og historie.",
+      "At organisere prøver, repetitionsspørgsmål og afslutningsprogrammer for at styrke og følge op på medlemmernes læring.",
+      "At arrangere seminarer, symposier og workshops om aktuelle sociale og åndelige emner samt om børns og unges opdragelse.",
+      "At koordinere åndelige og undervisningsmæssige ture til klostre, historiske steder og andre kirkelige steder, så medlemmerne både vokser i viden og åndelig erfaring."
+    ],
+    "ctaTitle": "Bliv en del af vores undervisningsarbejde",
+    "ctaDescription": "Vi inviterer alle til at vokse i Den Hellige Kirkes tro, undervisning og tradition.",
+    "contactButton": "Kontakt os",
+    "childrenButton": "Børneafdelingen"
   },
   "gallery": {
     "backHome": "Forside",
@@ -385,23 +408,23 @@
         "title": "Støtte til Børn",
         "description": "Forældre samarbejder med kirkens tjenere for at hjælpe børn med at vokse i tro, moral og kirkens tradition."
       }
-    },"responsibilitiesTitle": "Forældrekoordineringsafdelingens hovedopgaver og ansvar",
-"responsibilitiesIntro": "Forældrekoordineringsafdelingen under søndagsskolen arbejder for at styrke forældrenes rolle i børnenes ortodokse opdragelse, åndelige udvikling og kirkelige liv. Afdelingens vigtigste opgaver omfatter:",
-"responsibilities": [
-  "At arrangere kurser, seminarer og oplysningsprogrammer, der styrker forældrenes viden, ansvar og engagement.",
-  "At etablere en tydelig og sammenhængende arbejdsform, som hjælper forældre med at tage aktivt ansvar i deres børns ortodokse opdragelse, og at følge op på dens gennemførelse.",
-  "At tilbyde løbende undervisning og kompetenceudvikling for forældre om udvalgte åndelige, pædagogiske og aktuelle emner.",
-  "At vejlede forældre om, hvordan børn med særlige behov kan inkluderes i åndelige og kirkelige aktiviteter, samt arrangere dialog og støtteprogrammer.",
-  "At arrangere kurser, samtaler og erfaringsudveksling for koordinatorer, lærere og forældre, så børn og unge kan vokse med en stærk ortodoks identitet.",
-  "At udarbejde oplysnings- og undervisningsprogrammer om moderne kulturelle, sociale og livsmæssige udfordringer, der kan være i modstrid med kirkens ortodokse lære og værdier.",
-  "At styrke bevidstheden om udfordringer som afhængighed, skadelige livsmønstre, manglende tro, selvskade og andre forhold, der kan påvirke børn og unge negativt.",
-  "At vejlede om lokale kulturelle påvirkninger, uhensigtsmæssig teknologibrug, individualisme og andre samfundstendenser, som kan påvirke børns åndelige og moralske udvikling.",
-  "At arrangere undervisning og dialog, som hjælper den næste generation med at blive ansvarsbevidst, arbejdsom, kreativ og i stand til at klare sig godt i samfundet.",
-  "At støtte udviklingen af et kristent fællesskab præget af ansvar, arbejdsomhed, økonomisk bevidsthed og tjenestevillighed.",
-  "At hjælpe troende med at forstå deres samtid, bruge gode muligheder i samfundet og dele positive erfaringer gennem undervisning, dialog og fællesskab."
-],
-"ctaDescription": "Vi inviterer forældre, lærere og frivillige til sammen at støtte vores børn, så de kan vokse i tro, kærlighed og gode kristne værdier.",
-
+    },
+    "responsibilitiesTitle": "Forældrekoordineringsafdelingens hovedopgaver og ansvar",
+    "responsibilitiesIntro": "Forældrekoordineringsafdelingen under søndagsskolen arbejder for at styrke forældrenes rolle i børnenes ortodokse opdragelse, åndelige udvikling og kirkelige liv. Afdelingens vigtigste opgaver omfatter:",
+    "responsibilities": [
+      "At arrangere kurser, seminarer og oplysningsprogrammer, der styrker forældrenes viden, ansvar og engagement.",
+      "At etablere en tydelig og sammenhængende arbejdsform, som hjælper forældre med at tage aktivt ansvar i deres børns ortodokse opdragelse, og at følge op på dens gennemførelse.",
+      "At tilbyde løbende undervisning og kompetenceudvikling for forældre om udvalgte åndelige, pædagogiske og aktuelle emner.",
+      "At vejlede forældre om, hvordan børn med særlige behov kan inkluderes i åndelige og kirkelige aktiviteter, samt arrangere dialog og støtteprogrammer.",
+      "At arrangere kurser, samtaler og erfaringsudveksling for koordinatorer, lærere og forældre, så børn og unge kan vokse med en stærk ortodoks identitet.",
+      "At udarbejde oplysnings- og undervisningsprogrammer om moderne kulturelle, sociale og livsmæssige udfordringer, der kan være i modstrid med kirkens ortodokse lære og værdier.",
+      "At styrke bevidstheden om udfordringer som afhængighed, skadelige livsmønstre, manglende tro, selvskade og andre forhold, der kan påvirke børn og unge negativt.",
+      "At vejlede om lokale kulturelle påvirkninger, uhensigtsmæssig teknologibrug, individualisme og andre samfundstendenser, som kan påvirke børns åndelige og moralske udvikling.",
+      "At arrangere undervisning og dialog, som hjælper den næste generation med at blive ansvarsbevidst, arbejdsom, kreativ og i stand til at klare sig godt i samfundet.",
+      "At støtte udviklingen af et kristent fællesskab præget af ansvar, arbejdsomhed, økonomisk bevidsthed og tjenestevillighed.",
+      "At hjælpe troende med at forstå deres samtid, bruge gode muligheder i samfundet og dele positive erfaringer gennem undervisning, dialog og fællesskab."
+    ],
+    "ctaDescription": "Vi inviterer forældre, lærere og frivillige til sammen at støtte vores børn, så de kan vokse i tro, kærlighed og gode kristne værdier.",
 
     "ctaTitle": "Bliv en del af vores forældrefællesskab",
 
@@ -437,21 +460,23 @@
         "title": "Ungdomsdeltagelse",
         "description": "Børn og unge styrkes i tro og åndeligt liv gennem deltagelse i mezmur- og lovsangstjenesten."
       }
-    },"responsibilitiesTitle": "Mezmur-afdelingens hovedopgaver og ansvar",
-"responsibilitiesIntro": "Søndagsskolens Mezmur-afdeling tjener i overensstemmelse med kirkens orden, vejledning og åndelige tradition. Afdelingens vigtigste opgaver og ansvar er følgende:",
-"responsibilities": [
-  "Mezmur-afdelingen er ansvarlig over for kontoret og følger de retningslinjer, regler og arbejdsopgaver, som gives af kontoret.",
-  "Afdelingen sikrer, at kun godkendte salmer og åndelige sange synges i overensstemmelse med kontorets vejledning.",
-  "Afdelingen sørger for mezmur-tjeneste under søndagsskolens faste programmer og ved regelmæssige menighedssamlinger.",
-  "Ved glædelige såvel som sørgelige anledninger udfører afdelingen mezmur-tjeneste, når kontoret anmoder om det.",
-  "Afdelingen arbejder for at samle og udarbejde salmer i hæfteform, så medlemmerne lettere kan bruge dem i tjenesten.",
-  "Afdelingen forbereder salmer, så de synges i overensstemmelse med kirkeårets højtider og liturgiske perioder.",
-  "Afdelingen følger op på, at sangerne deltager i øvelser og mezmur-undervisning.",
-  "Afdelingen fremlægger en samlet rapport om sit arbejde til den udøvende komité én gang hvert tredje måned.",
-  "Afdelingen arbejder for, at nødvendige redskaber og materialer til mezmur-tjenesten er til rådighed, og at de bruges med omhu.",
-  "I samarbejde med undervisningsafdelingen arrangerer afdelingen efter behov undervisning om Sankt Yared, den yarediske sangtradition og kirkens musikalske redskaber.",
-  "Afdelingen har interne retningslinjer, som godkendes af den udøvende komité."
-],"ctaDescription": "Vi inviterer alle, der ønsker at tjene Gud gennem mezmur, lovsang og den hellige yarediske sangtradition.",
+    },
+    "responsibilitiesTitle": "Mezmur-afdelingens hovedopgaver og ansvar",
+    "responsibilitiesIntro": "Søndagsskolens Mezmur-afdeling tjener i overensstemmelse med kirkens orden, vejledning og åndelige tradition. Afdelingens vigtigste opgaver og ansvar er følgende:",
+    "responsibilities": [
+      "Mezmur-afdelingen er ansvarlig over for kontoret og følger de retningslinjer, regler og arbejdsopgaver, som gives af kontoret.",
+      "Afdelingen sikrer, at kun godkendte salmer og åndelige sange synges i overensstemmelse med kontorets vejledning.",
+      "Afdelingen sørger for mezmur-tjeneste under søndagsskolens faste programmer og ved regelmæssige menighedssamlinger.",
+      "Ved glædelige såvel som sørgelige anledninger udfører afdelingen mezmur-tjeneste, når kontoret anmoder om det.",
+      "Afdelingen arbejder for at samle og udarbejde salmer i hæfteform, så medlemmerne lettere kan bruge dem i tjenesten.",
+      "Afdelingen forbereder salmer, så de synges i overensstemmelse med kirkeårets højtider og liturgiske perioder.",
+      "Afdelingen følger op på, at sangerne deltager i øvelser og mezmur-undervisning.",
+      "Afdelingen fremlægger en samlet rapport om sit arbejde til den udøvende komité én gang hvert tredje måned.",
+      "Afdelingen arbejder for, at nødvendige redskaber og materialer til mezmur-tjenesten er til rådighed, og at de bruges med omhu.",
+      "I samarbejde med undervisningsafdelingen arrangerer afdelingen efter behov undervisning om Sankt Yared, den yarediske sangtradition og kirkens musikalske redskaber.",
+      "Afdelingen har interne retningslinjer, som godkendes af den udøvende komité."
+    ],
+    "ctaDescription": "Vi inviterer alle, der ønsker at tjene Gud gennem mezmur, lovsang og den hellige yarediske sangtradition.",
 
     "ctaTitle": "Deltag i vores mezmur-tjeneste",
 
@@ -487,20 +512,21 @@
         "title": "Kærlighed og Enhed",
         "description": "Menigheden støtter hinanden i kærlighed, omsorg og enhed."
       }
-    },"responsibilitiesTitle": "Medlemsafdelingens hovedopgaver og ansvar",
-"responsibilitiesIntro": "Medlemsafdelingen under søndagsskolen arbejder for at organisere medlemmernes oplysninger, deltagelse, åndelige fællesskab og tjeneste på en ordentlig og kirkelig måde. Afdelingens vigtigste opgaver omfatter:",
-"responsibilities": [
-  "At udarbejde medlemsformularer for søndagsskolens medlemmer, sikre at de udfyldes, og opbevare medlemsoplysninger på en ordnet og ansvarlig måde.",
-  "At følge medlemmernes deltagelse og aktiviteter under søndagsskolens programmer og inden for kirkens område.",
-  "At rapportere til den relevante afdeling, hvis et medlem udebliver fra programmer i tre sammenhængende uger, så medlemmets situation kan følges op.",
-  "At informere den relevante afdeling, hvis et medlem efter opfølgning fortsat udebliver fra fire på hinanden følgende programmer, så der kan findes en passende løsning.",
-  "At sikre, at tjenere, der viser mangler i deres tjeneste, bliver vejledt én gang i kærlighed og orden, og at der følges op på forbedringen.",
-  "At koordinere den rette kirkelige proces i henhold til søndagsskolens retningslinjer, når der ses alvorlige brud på adfærd, orden eller tjenesteregler.",
-  "At arbejde for at styrke et levende åndeligt fællesskab, omsorg, kærlighed og enhed blandt medlemmerne.",
-  "At koordinere, at søndagsskolens medlemmer viser nærvær og fællesskab ved både glædelige og sørgelige begivenheder blandt medlemmerne.",
-  "At opmuntre medlemmerne til et liv i bod og skriftemål, hjælpe dem, der ikke har en skriftefader, og arrangere åndelige samlinger, ture og programmer omkring bodens liv."
-],
-"ctaDescription": "Vi inviterer medlemmerne til at vokse i kærlighed, enhed, bodens liv og tjeneste for kirken.",
+    },
+    "responsibilitiesTitle": "Medlemsafdelingens hovedopgaver og ansvar",
+    "responsibilitiesIntro": "Medlemsafdelingen under søndagsskolen arbejder for at organisere medlemmernes oplysninger, deltagelse, åndelige fællesskab og tjeneste på en ordentlig og kirkelig måde. Afdelingens vigtigste opgaver omfatter:",
+    "responsibilities": [
+      "At udarbejde medlemsformularer for søndagsskolens medlemmer, sikre at de udfyldes, og opbevare medlemsoplysninger på en ordnet og ansvarlig måde.",
+      "At følge medlemmernes deltagelse og aktiviteter under søndagsskolens programmer og inden for kirkens område.",
+      "At rapportere til den relevante afdeling, hvis et medlem udebliver fra programmer i tre sammenhængende uger, så medlemmets situation kan følges op.",
+      "At informere den relevante afdeling, hvis et medlem efter opfølgning fortsat udebliver fra fire på hinanden følgende programmer, så der kan findes en passende løsning.",
+      "At sikre, at tjenere, der viser mangler i deres tjeneste, bliver vejledt én gang i kærlighed og orden, og at der følges op på forbedringen.",
+      "At koordinere den rette kirkelige proces i henhold til søndagsskolens retningslinjer, når der ses alvorlige brud på adfærd, orden eller tjenesteregler.",
+      "At arbejde for at styrke et levende åndeligt fællesskab, omsorg, kærlighed og enhed blandt medlemmerne.",
+      "At koordinere, at søndagsskolens medlemmer viser nærvær og fællesskab ved både glædelige og sørgelige begivenheder blandt medlemmerne.",
+      "At opmuntre medlemmerne til et liv i bod og skriftemål, hjælpe dem, der ikke har en skriftefader, og arrangere åndelige samlinger, ture og programmer omkring bodens liv."
+    ],
+    "ctaDescription": "Vi inviterer medlemmerne til at vokse i kærlighed, enhed, bodens liv og tjeneste for kirken.",
 
     "ctaTitle": "Bliv en del af vores menighedsfællesskab",
 
@@ -509,79 +535,89 @@
     "supportButton": "Støt Kirken"
   },
   "childrenAndYouthPage": {
-  "backHome": "Hjem",
+    "backHome": "Hjem",
 
-  "title": "Børne- og Ungdomsafdelingen",
+    "title": "Børne- og Ungdomsafdelingen",
 
-  "heading": "At opbygge børn og unge i den ortodokse tro",
+    "heading": "At opbygge børn og unge i den ortodokse tro",
 
-  "description1": "Børne- og ungdomsafdelingen er en central del af kirkens søndagsskole og arbejder for, at børn og unge fra en tidlig alder vokser op i den Etiopisk-Ortodokse Tewahedo Kirkes tro, åndelige liv, bøn, kristne værdier og gode moral.",
+    "description1": "Børne- og ungdomsafdelingen er en central del af kirkens søndagsskole og arbejder for, at børn og unge fra en tidlig alder vokser op i den Etiopisk-Ortodokse Tewahedo Kirkes tro, åndelige liv, bøn, kristne værdier og gode moral.",
 
-  "description2": "Undervisningen omfatter Den Hellige Skrift, kirkens historie, den apostolske tradition, liturgi, kirkesang (Mezmur) og kristen etik. Undervisningen tilpasses børnenes alder og hjælper dem med at udvikle en levende og bevidst ortodoks tro.",
+    "description2": "Undervisningen omfatter Den Hellige Skrift, kirkens historie, den apostolske tradition, liturgi, kirkesang (Mezmur) og kristen etik. Undervisningen tilpasses børnenes alder og hjælper dem med at udvikle en levende og bevidst ortodoks tro.",
 
-  "description3": "Afdelingen ønsker samtidig at styrke børnenes ortodokse identitet, deres kærlighed til Kirken og deres fællesskab med hinanden, så de vokser op som ansvarlige kristne og aktive medlemmer af menigheden.",
+    "description3": "Afdelingen ønsker samtidig at styrke børnenes ortodokse identitet, deres kærlighed til Kirken og deres fællesskab med hinanden, så de vokser op som ansvarlige kristne og aktive medlemmer af menigheden.",
 
-  "cards": {
+    "cards": {
+      "card1": {
+        "title": "Åndelig dannelse",
+        "description": "Børn og unge styrkes i troen gennem bøn, bibelundervisning, kirkesang og aktiv deltagelse i kirkens gudstjenester og øvrige kirkelige liv."
+      },
 
-    "card1": {
-      "title": "Åndelig dannelse",
-      "description": "Børn og unge styrkes i troen gennem bøn, bibelundervisning, kirkesang og aktiv deltagelse i kirkens gudstjenester og øvrige kirkelige liv."
+      "card2": {
+        "title": "Ortodoks identitet",
+        "description": "Undervisningen giver børnene et solidt kendskab til Den Etiopisk-Ortodokse Tewahedo Kirkes tro, tradition, liturgi og kristne liv, så de kan bevare deres ortodokse identitet."
+      },
+
+      "card3": {
+        "title": "Fællesskab og personlig udvikling",
+        "description": "Gennem undervisning, aktiviteter og fællesskab lærer børn og unge at vise kærlighed, respekt, ansvar og tjeneste over for Gud, Kirken og hinanden."
+      }
     },
+    "ctaDescription": "Vi byder børn, unge, forældre og frivillige velkommen til at vokse sammen i tro, kærlighed og tjeneste.",
 
-    "card2": {
-      "title": "Ortodoks identitet",
-      "description": "Undervisningen giver børnene et solidt kendskab til Den Etiopisk-Ortodokse Tewahedo Kirkes tro, tradition, liturgi og kristne liv, så de kan bevare deres ortodokse identitet."
-    },
+    "responsibilitiesTitle": "Børne- og ungdomsafdelingens vigtigste opgaver og ansvarsområder",
 
-    "card3": {
-      "title": "Fællesskab og personlig udvikling",
-      "description": "Gennem undervisning, aktiviteter og fællesskab lærer børn og unge at vise kærlighed, respekt, ansvar og tjeneste over for Gud, Kirken og hinanden."
-    }
+    "responsibilitiesIntro": "Børne- og ungdomsafdelingen under søndagsskolen arbejder målrettet for at styrke børn og unges åndelige, menneskelige og sociale udvikling i overensstemmelse med Den Etiopisk-Ortodokse Tewahedo Kirkes tro, tradition og værdier. Afdelingens væsentligste ansvarsområder omfatter:",
 
+    "responsibilities": [
+      "At planlægge og fremme aktiviteter, som styrker fællesskabet, sammenholdet og de sociale relationer mellem børn og unge samt bidrager til et trygt kirkeligt miljø.",
+      "At vejlede søndagsskolen om initiativer, der hjælper børn og unge med både faglig, personlig og praktisk udvikling, så de bliver ansvarlige mennesker, som kan tjene både Kirken og samfundet.",
+      "At følge samfundsmæssige udviklinger og udfordringer, som kan påvirke børn og unges tro og liv, og udarbejde undervisning og oplysningsprogrammer baseret på kirkens ortodokse lære.",
+      "At arbejde for en alderssvarende undervisningsplan, der bygger på Den Etiopisk-Ortodokse Tewahedo Kirkes dogmer, kanoniske tradition og åndelige arv, så børn og unge vokser i tro og kristent liv.",
+      "At arrangere seminarer, kurser, erfaringsudveksling og kompetenceudvikling for koordinatorer, lærere og forældre med henblik på at styrke børnenes ortodokse identitet.",
+      "At rekruttere, uddanne og vejlede lærere, som kan undervise børn og unge både på amharisk og dansk.",
+      "At udvikle inkluderende undervisnings- og aktivitetsforløb for børn med særlige behov samt tilbyde vejledning og støtte til både forældre og frivillige undervisere.",
+      "At fremme et godt samarbejde med nationale og internationale organisationer, der arbejder med børn og unge, når dette er foreneligt med kirkens tro, værdier og retningslinjer."
+    ],
+
+    "ctaTitle": "Bliv en del af vores børne- og ungdomsarbejde",
+
+    "contactButton": "Kontakt os",
+
+    "joinButton": "Bliv medlem"
   },
-  "ctaDescription": "Vi byder børn, unge, forældre og frivillige velkommen til at vokse sammen i tro, kærlighed og tjeneste.",
-
-  "responsibilitiesTitle": "Børne- og ungdomsafdelingens vigtigste opgaver og ansvarsområder",
-
-  "responsibilitiesIntro": "Børne- og ungdomsafdelingen under søndagsskolen arbejder målrettet for at styrke børn og unges åndelige, menneskelige og sociale udvikling i overensstemmelse med Den Etiopisk-Ortodokse Tewahedo Kirkes tro, tradition og værdier. Afdelingens væsentligste ansvarsområder omfatter:",
-
-  "responsibilities": [
-    "At planlægge og fremme aktiviteter, som styrker fællesskabet, sammenholdet og de sociale relationer mellem børn og unge samt bidrager til et trygt kirkeligt miljø.",
-    "At vejlede søndagsskolen om initiativer, der hjælper børn og unge med både faglig, personlig og praktisk udvikling, så de bliver ansvarlige mennesker, som kan tjene både Kirken og samfundet.",
-    "At følge samfundsmæssige udviklinger og udfordringer, som kan påvirke børn og unges tro og liv, og udarbejde undervisning og oplysningsprogrammer baseret på kirkens ortodokse lære.",
-    "At arbejde for en alderssvarende undervisningsplan, der bygger på Den Etiopisk-Ortodokse Tewahedo Kirkes dogmer, kanoniske tradition og åndelige arv, så børn og unge vokser i tro og kristent liv.",
-    "At arrangere seminarer, kurser, erfaringsudveksling og kompetenceudvikling for koordinatorer, lærere og forældre med henblik på at styrke børnenes ortodokse identitet.",
-    "At rekruttere, uddanne og vejlede lærere, som kan undervise børn og unge både på amharisk og dansk.",
-    "At udvikle inkluderende undervisnings- og aktivitetsforløb for børn med særlige behov samt tilbyde vejledning og støtte til både forældre og frivillige undervisere.",
-    "At fremme et godt samarbejde med nationale og internationale organisationer, der arbejder med børn og unge, når dette er foreneligt med kirkens tro, værdier og retningslinjer."
-  ],
-
-  "ctaTitle": "Bliv en del af vores børne- og ungdomsarbejde",
-
-  "contactButton": "Kontakt os",
-
-  "joinButton": "Bliv medlem"
-},
   "aboutDetail": {
-  "backHome": "Hjem",
-  "pageTitle": "Om vores kirke",
-  "fatherMessageTitle": "Budskab fra vores præst",
-  "holyIntro": "I Faderens, Sønnens og Helligåndens navn, én Gud. Amen.",
+    "backHome": "Hjem",
+    "pageTitle": "Om vores kirke",
 
-  "fatherMessage1": "Debre Mihret Sankt Emmanuel Etiopisk-Ortodokse Tewahedo Kirke i Danmark er et åndeligt hjem for de etiopisk-ortodokse troende. Vores kirke søger at tjene menigheden gennem bøn, undervisning, Den Hellige Liturgi og åndeligt fællesskab i overensstemmelse med det hellige evangelium, den apostolske tradition og kirkens hellige orden.",
+    "fatherMessageTitle": "Hilsen fra vores sognepræst",
 
-  "fatherMessage2": "I dette land er det et stort ansvar at bevare og videregive vores tro, sprog, kultur og kirkelige tradition til vores børn. Derfor opfordrer jeg med faderlig kærlighed alle troende til at støtte kirken i kærlighed, enhed og engagement samt til aktivt at tage del i dens tjeneste.",
+    "verse": "»Vend os tilbage til dig, Herre, så vender vi om. Gør vore dage nye som i fordums tid.« (Klagesangene 5,21)",
 
-  "fatherMessage3": "Må Gud styrke os alle i troen, opbygge os i kærlighed og gøre os trofaste i tjenesten for Hans hus. Ved Sankt Emmanuels forbøn og gennem Guds Moders, Den Hellige Jomfru Marias, bønner beder jeg om, at vores kirke må vokse i velsignelse.",
+    "holyIntro": "I Faderens, Sønnens og Helligåndens navn – én Gud. Amen.",
 
-  "thanksgiving": "Ære være den Højeste Gud. Amen.",
-  "fatherName": "Melake Mihret Qomos Aba Zemikael",
+    "fatherMessage1": "Kære menighed, evangeliets tjenere, søndagsskolens børn og unge samt alle jer, der besøger vores officielle hjemmeside – hvad enten I bor i Danmark, Etiopien eller andre steder i verden – fred og nåde være med jer i vor Herre Jesus Kristus. Må den almægtige Gud, de helliges Gud, være lovet til evig tid.",
 
-  "foundationTitle": "Kirkens historiske milepæle",
+    "fatherMessage2": "Den Hellige Etiopisk Ortodokse Tewahedo Kirke er kaldet til at forkynde evangeliets lys for hele verden, styrke Guds folk i troen og trofast videregive Kirkens hellige tradition til kommende generationer. For os, der lever i diasporaen, er Kirken ikke blot et sted for gudstjeneste, men vores åndelige hjem, hvor troen, den ortodokse identitet og vores kristne arv bevares.",
 
-  "foundationText1": "Før grundlæggelsen voksede det åndelige fællesskab blandt etiopiske studerende og troende i Danmark gennem Tsuwa-fællesskaber ved danske videregående uddannelsesinstitutioner. Den 21. marts 2010 (12. Megabit 2002 E.C.) blev kirken officielt grundlagt med velsignelse fra Hans Eminence Abune Entons, og Qomos Aba Zemikael Deressa blev udnævnt som kirkens første administrator. Gennem årene med vækst og udholdenhed overvandt menigheden mangel på faste præster, diakoner og et permanent gudstjenestested. I dag har kirken uddannet og forberedt mere end ti diakoner til tjeneste. Fra 2020 blev det stadig vanskeligere at finde midlertidige lokaler til gudstjenester, og behovet for en varig løsning blev tydeligt. Den 5. august 2023 traf menigheden på en historisk generalforsamling en enstemmig beslutning om at købe en permanent kirkeejendom. Den 4. oktober 2025 blev grundstenen til kirkens byggeprojekt velsignet og nedlagt af Hans Eminence Abune Elias, ærkebiskop for Det Nordiske og Græske Stift.",
+    "fatherMessage3": "Kirken har også en særlig opgave med at vejlede børn og unge. I en tid præget af teknologi og mange kulturelle påvirkninger hjælper Kirken dem med at vokse op i gudsfrygt, ære deres forældre og bevare deres ortodokse tro, sprog og kultur.",
 
-  "foundationText2": "Nuværende status: Under ledelse af kirkens administrator og med menighedens store engagement er købet af ejendommen gennemført. Efter at grundstenen er blevet velsignet og nedlagt af Hans Eminence Abune Elias, afventer vi i øjeblikket den nødvendige byggetilladelse, så kirkens byggeprojekt officielt kan påbegyndes.",
+    "fatherMessage4": "Vores nye officielle hjemmeside er skabt for at udbrede evangeliet, bevare kirkens historie og formidle gudstjenester, undervisning, arrangementer og øvrige kirkelige aktiviteter. Den fungerer som en fælles digital platform, hvor vores menighed kan være forbundet på tværs af landegrænser og fortsat tage del i Kirkens liv og tjeneste.",
+
+    "fatherMessage5": "Ved Guds nåde har menigheden erhvervet en grund, og vi står nu foran opførelsen af vores kommende kirkebygning. Dette er en historisk opgave og et fælles ansvar for hele menigheden. Derfor opfordrer jeg alle troende og kirkens venner til fortsat at støtte dette hellige arbejde gennem bøn, frivilligt engagement og økonomisk støtte.",
+
+    "fatherMessage6": "Jeg inviterer jer alle til jævnligt at besøge hjemmesiden, deltage aktivt i kirkens gudstjenester og aktiviteter samt støtte vores fælles tjeneste. Må Gud give jer åndelig styrke, fred og rige velsignelser.",
+
+    "fatherMessage7": "Må den Hellige Emmanuel, Den Hellige Jomfru Marias forbøn samt alle helgeners bønner og beskyttelse være med os. Må Gud velsigne vores tjeneste. Amen.",
+
+    "fatherName": "Komos Aba Zemichael Deresa",
+
+    "fatherPosition": "Sognepræst og administrator\nDebre Mihret Sankt Emmanuel Etiopisk Ortodoks Tewahedo Kirke\nKøbenhavn, Danmark",
+    "foundationTitle": "Kirkens historiske milepæle",
+
+    "foundationText1": "Før grundlæggelsen voksede det åndelige fællesskab blandt etiopiske studerende og troende i Danmark gennem Tsuwa-fællesskaber ved danske videregående uddannelsesinstitutioner. Den 21. marts 2010 (12. Megabit 2002 E.C.) blev kirken officielt grundlagt med velsignelse fra Hans Eminence Abune Entons, og Qomos Aba Zemikael Deressa blev udnævnt som kirkens første administrator. Gennem årene med vækst og udholdenhed overvandt menigheden mangel på faste præster, diakoner og et permanent gudstjenestested. I dag har kirken uddannet og forberedt mere end ti diakoner til tjeneste. Fra 2020 blev det stadig vanskeligere at finde midlertidige lokaler til gudstjenester, og behovet for en varig løsning blev tydeligt. Den 5. august 2023 traf menigheden på en historisk generalforsamling en enstemmig beslutning om at købe en permanent kirkeejendom. Den 4. oktober 2025 blev grundstenen til kirkens byggeprojekt velsignet og nedlagt af Hans Eminence Abune Elias, ærkebiskop for Det Nordiske og Græske Stift.",
+
+    "foundationText2": "Nuværende status: Under ledelse af kirkens administrator og med menighedens store engagement er købet af ejendommen gennemført. Efter at grundstenen er blevet velsignet og nedlagt af Hans Eminence Abune Elias, afventer vi i øjeblikket den nødvendige byggetilladelse, så kirkens byggeprojekt officielt kan påbegyndes.",
 
     "structureTitle": "Kirkens struktur",
     "structureButton": "Læs mere om strukturen",
@@ -618,129 +654,195 @@
       "dBuruk": "Deacon Buruk Tesfaye",
       "dYonas": "Deacon Yonas Yohannes",
       "dBekael": "Deacon Bekael Matias"
-    }},
-
-
-
-    "privacyPolicy": {
-  "backHome": "Hjem",
-  "title": "Privatlivspolitik",
-  "lastUpdated": "Senest opdateret: 2026",
-  "intro": "Denne privatlivspolitik forklarer, hvordan oplysninger behandles, når du besøger vores hjemmeside, kontakter kirken eller ser billeder, videoer og indlejrede tjenester på hjemmesiden.",
-  "contactTitle": "Har du spørgsmål?",
-  "contactText": "Hvis du har spørgsmål om privatliv, billeder, video eller behandling af oplysninger, er du velkommen til at kontakte kirken.",
-  "sections": [
-    {
-      "title": "1. Hvem vi er",
-      "paragraphs": [
-        "Denne hjemmeside er den officielle hjemmeside for Debre Mihret Sankt Emmanuel Etiopisk-Ortodokse Tewahedo Kirke i Danmark.",
-        "Adresse: Roskildevej 303, 2630 Taastrup, Danmark."
-      ]
-    },
-    {
-      "title": "2. Hvilke oplysninger vi indsamler",
-      "paragraphs": [
-        "Vores hjemmeside er primært en informationshjemmeside. Vi bruger ikke brugerlogin, medlemskonti eller direkte onlinebetaling via hjemmesiden.",
-        "Hvis du kontakter os via kontaktformular eller e-mail, kan vi modtage de oplysninger, du selv sender til os."
-      ],
-      "items": [
-        "Navn",
-        "E-mailadresse",
-        "Telefonnummer, hvis det oplyses",
-        "Indholdet af din besked"
-      ]
-    },
-    {
-      "title": "3. Hvordan vi bruger oplysninger",
-      "paragraphs": [
-        "Vi bruger de oplysninger, du giver os, til at besvare henvendelser, give information om kirken og koordinere kirkelige, åndelige og sociale aktiviteter.",
-        "Vi sælger ikke personoplysninger og bruger dem ikke til kommerciel markedsføring eller reklameformål."
-      ]
-    },
-    {
-      "title": "4. Brug af billeder og video",
-      "paragraphs": [
-        "Der kan blive taget billeder og video under gudstjenester, kirkelige højtider, søndagsskole, undervisning, børne- og ungdomsaktiviteter samt andre kirkelige arrangementer.",
-        "Billeder og videoer kan blive brugt på kirkens hjemmeside, sociale medier eller andre kirkelige kommunikationskanaler for at vise kirkens åndelige liv, undervisning, tjeneste og fællesskab.",
-        "Når det gælder børn, bestræber vi os på at bruge billeder i gruppe­sammenhæng og uden at nævne børns fulde navne. Vi ønsker ikke at bruge billeder, der udstiller, skader eller unødigt eksponerer børn.",
-        "Hvis du ikke ønsker, at billeder eller video af dig eller dit barn offentliggøres på kirkens hjemmeside eller sociale medier, bedes du kontakte kirken. Vi vil bestræbe os på at respektere rimelige anmodninger."
-      ]
-    },
-    {
-      "title": "5. Oplysninger om præster, diakoner, tjenere og menighedsråd",
-      "paragraphs": [
-        "På hjemmesiden kan der vises navn, rolle, billede eller tjenesteoplysninger om præster, diakoner, menighedsrådsmedlemmer og andre tjenere i kirken.",
-        "Formålet er at skabe gennemsigtighed om kirkens tjeneste, administration og åndelige arbejde. Personer, der ikke ønsker at blive vist med navn eller billede, kan kontakte kirken."
-      ]
-    },
-    {
-      "title": "6. Indlejrede tredjepartstjenester",
-      "paragraphs": [
-        "Hjemmesiden kan indeholde indlejrede tjenester som Google Maps og YouTube-videoer.",
-        "Disse tjenester drives af Google eller andre tredjeparter og kan behandle tekniske oplysninger eller bruge cookies i henhold til deres egne privatlivspolitikker."
-      ]
-    },
-    {
-      "title": "7. Sikkerhed og opbevaring",
-      "paragraphs": [
-        "Vi bestræber os på at behandle personoplysninger med passende omhu. Oplysninger sendt via kontaktformular eller e-mail opbevares kun, så længe det er nødvendigt for formålet med henvendelsen eller af lovlige/administrative grunde.",
-        "Billeder og videoer kan opbevares til dokumentation af kirkens historie, åndelige tjeneste og fællesskab. Anmodninger om fjernelse vurderes konkret."
-      ]
-    },
-    {
-      "title": "8. Dine rettigheder",
-      "paragraphs": [
-        "Efter databeskyttelsesreglerne kan du anmode om indsigt i oplysninger om dig, bede om rettelse af urigtige oplysninger eller, hvor det er relevant, anmode om sletning.",
-        "Datatilsynet er den danske databeskyttelsesmyndighed og giver vejledning om GDPR-rettigheder og forpligtelser."
-      ]
     }
-  ]
-},"eventsPage": {
-  "backHome": "Hjem",
-  "title": "Arrangementer",
-  "subtitle": "Kirkens gudstjenester, højtider og åndelige programmer",
-  "sectionSmallTitle": "Aktuelle programmer",
-  "sectionTitle": "Arrangementer i vores kirke",
-  "sectionDescription": "På denne side kan du finde information om gudstjenester, kirkelige højtider, undervisning, søndagsskole og andre programmer i menigheden.",
-  "detailsButton": "Læs mere",
-  "ctaTitle": "Har du spørgsmål om et arrangement?",
-  "ctaDescription": "Kontakt kirken, hvis du ønsker mere information om dato, tidspunkt, sted eller deltagelse.",
-  "contactButton": "Kontakt os",
-  "weeklyTitle": "Ugentlige gudstjenester",
-"upcomingTitle": "Kommende arrangementer",
-"status": {
-  "weekly": "Ugentligt",
-  "upcoming": "Kommende",
-  "finished": "Afsluttet",
-  "info": "Information"
-},
-  "events": {
-    "kidase": {
-      "date": "Hver lørdag",
-      "time": "08:00",
-      "location": "Roskildevej 303, 2630 Taastrup",
-      "title": "Den Hellige Liturgi",
-      "description": "Den Hellige Liturgi fejres i kirken efter den etiopisk-ortodokse Tewahedo tradition. Menigheden inviteres til at deltage i bøn, kirkesang og den hellige gudstjeneste."
+  },
+
+  "privacyPolicy": {
+    "backHome": "Hjem",
+    "title": "Privatlivspolitik",
+    "lastUpdated": "Senest opdateret: 2026",
+    "intro": "Denne privatlivspolitik forklarer, hvordan oplysninger behandles, når du besøger vores hjemmeside, kontakter kirken eller ser billeder, videoer og indlejrede tjenester på hjemmesiden.",
+    "contactTitle": "Har du spørgsmål?",
+    "contactText": "Hvis du har spørgsmål om privatliv, billeder, video eller behandling af oplysninger, er du velkommen til at kontakte kirken.",
+    "sections": [
+      {
+        "title": "1. Hvem vi er",
+        "paragraphs": [
+          "Denne hjemmeside er den officielle hjemmeside for Debre Mihret Sankt Emmanuel Etiopisk-Ortodokse Tewahedo Kirke i Danmark.",
+          "Adresse: Roskildevej 303, 2630 Taastrup, Danmark."
+        ]
+      },
+      {
+        "title": "2. Hvilke oplysninger vi indsamler",
+        "paragraphs": [
+          "Vores hjemmeside er primært en informationshjemmeside. Vi bruger ikke brugerlogin, medlemskonti eller direkte onlinebetaling via hjemmesiden.",
+          "Hvis du kontakter os via kontaktformular eller e-mail, kan vi modtage de oplysninger, du selv sender til os."
+        ],
+        "items": [
+          "Navn",
+          "E-mailadresse",
+          "Telefonnummer, hvis det oplyses",
+          "Indholdet af din besked"
+        ]
+      },
+      {
+        "title": "3. Hvordan vi bruger oplysninger",
+        "paragraphs": [
+          "Vi bruger de oplysninger, du giver os, til at besvare henvendelser, give information om kirken og koordinere kirkelige, åndelige og sociale aktiviteter.",
+          "Vi sælger ikke personoplysninger og bruger dem ikke til kommerciel markedsføring eller reklameformål."
+        ]
+      },
+      {
+        "title": "4. Brug af billeder og video",
+        "paragraphs": [
+          "Der kan blive taget billeder og video under gudstjenester, kirkelige højtider, søndagsskole, undervisning, børne- og ungdomsaktiviteter samt andre kirkelige arrangementer.",
+          "Billeder og videoer kan blive brugt på kirkens hjemmeside, sociale medier eller andre kirkelige kommunikationskanaler for at vise kirkens åndelige liv, undervisning, tjeneste og fællesskab.",
+          "Når det gælder børn, bestræber vi os på at bruge billeder i gruppe­sammenhæng og uden at nævne børns fulde navne. Vi ønsker ikke at bruge billeder, der udstiller, skader eller unødigt eksponerer børn.",
+          "Hvis du ikke ønsker, at billeder eller video af dig eller dit barn offentliggøres på kirkens hjemmeside eller sociale medier, bedes du kontakte kirken. Vi vil bestræbe os på at respektere rimelige anmodninger."
+        ]
+      },
+      {
+        "title": "5. Oplysninger om præster, diakoner, tjenere og menighedsråd",
+        "paragraphs": [
+          "På hjemmesiden kan der vises navn, rolle, billede eller tjenesteoplysninger om præster, diakoner, menighedsrådsmedlemmer og andre tjenere i kirken.",
+          "Formålet er at skabe gennemsigtighed om kirkens tjeneste, administration og åndelige arbejde. Personer, der ikke ønsker at blive vist med navn eller billede, kan kontakte kirken."
+        ]
+      },
+      {
+        "title": "6. Indlejrede tredjepartstjenester",
+        "paragraphs": [
+          "Hjemmesiden kan indeholde indlejrede tjenester som Google Maps og YouTube-videoer.",
+          "Disse tjenester drives af Google eller andre tredjeparter og kan behandle tekniske oplysninger eller bruge cookies i henhold til deres egne privatlivspolitikker."
+        ]
+      },
+      {
+        "title": "7. Sikkerhed og opbevaring",
+        "paragraphs": [
+          "Vi bestræber os på at behandle personoplysninger med passende omhu. Oplysninger sendt via kontaktformular eller e-mail opbevares kun, så længe det er nødvendigt for formålet med henvendelsen eller af lovlige/administrative grunde.",
+          "Billeder og videoer kan opbevares til dokumentation af kirkens historie, åndelige tjeneste og fællesskab. Anmodninger om fjernelse vurderes konkret."
+        ]
+      },
+      {
+        "title": "8. Dine rettigheder",
+        "paragraphs": [
+          "Efter databeskyttelsesreglerne kan du anmode om indsigt i oplysninger om dig, bede om rettelse af urigtige oplysninger eller, hvor det er relevant, anmode om sletning.",
+          "Datatilsynet er den danske databeskyttelsesmyndighed og giver vejledning om GDPR-rettigheder og forpligtelser."
+        ]
+      }
+    ]
+  },
+  "eventsPage": {
+    "backHome": "Hjem",
+    "title": "Arrangementer",
+    "subtitle": "Kirkens gudstjenester, højtider og åndelige programmer",
+    "sectionSmallTitle": "Aktuelle programmer",
+    "sectionTitle": "Arrangementer i vores kirke",
+    "sectionDescription": "På denne side kan du finde information om gudstjenester, kirkelige højtider, undervisning, søndagsskole og andre programmer i menigheden.",
+    "detailsButton": "Læs mere",
+    "ctaTitle": "Har du spørgsmål om et arrangement?",
+    "ctaDescription": "Kontakt kirken, hvis du ønsker mere information om dato, tidspunkt, sted eller deltagelse.",
+    "contactButton": "Kontakt os",
+    "weeklyTitle": "Ugentlige gudstjenester",
+    "upcomingTitle": "Kommende arrangementer",
+    "status": {
+      "weekly": "Ugentligt",
+      "upcoming": "Kommende",
+      "finished": "Afsluttet",
+      "info": "Information"
     },
-    "christmas": {
-      "date": "7. januar",
-      "time": "07:00",
-      "location": "Roskildevej 303, 2630 Taastrup",
-      "title": "Julens højtid",
-      "description": "Vor Herre og Frelser Jesu Kristi fødsel fejres med Den Hellige Liturgi, kirkesang og åndelig glæde i menighedens fællesskab."
-    },
-    "general": {
-      "date": "Meddeles senere",
-      "time": "Meddeles senere",
-      "location": "Roskildevej 303, 2630 Taastrup",
-      "title": "Særligt kirkeligt arrangement",
-      "description": "Særlige åndelige arrangementer, undervisningsprogrammer og menighedsaktiviteter vil blive annonceret her."
+    "events": {
+      "kidase": {
+        "date": "Hver lørdag",
+        "time": "07:00",
+        "location": "Roskildevej 303, 2630 Taastrup",
+        "title": "Den Hellige Liturgi",
+        "description": "Den Hellige Liturgi fejres i kirken efter den etiopisk-ortodokse Tewahedo tradition. Menigheden inviteres til at deltage i bøn, kirkesang og den hellige gudstjeneste."
+      },
+      "christmas": {
+        "date": "7. januar",
+        "time": "07:00",
+        "location": "Roskildevej 303, 2630 Taastrup",
+        "title": "Julens højtid",
+        "description": "Vor Herre og Frelser Jesu Kristi fødsel fejres med Den Hellige Liturgi, kirkesang og åndelig glæde i menighedens fællesskab."
+      },
+      "general": {
+        "date": "Meddeles senere",
+        "time": "Meddeles senere",
+        "location": "Roskildevej 303, 2630 Taastrup",
+        "title": "Særligt kirkeligt arrangement",
+        "description": "Særlige åndelige arrangementer, undervisningsprogrammer og menighedsaktiviteter vil blive annonceret her."
+      }
     }
-  }
+  },"priestBooking": {
+  "backHome": "Hjem",
+
+  "title": "Book en samtale med en af vores præster",
+
+  "subtitle": "Bestil tid til åndelig vejledning, en pastoral samtale eller et kirkeligt anliggende",
+
+  "heading": "Book en tid til en samtale med vores præster",
+
+  "description": "Hvis du ønsker åndelig vejledning, en pastoral samtale, hjælp i forbindelse med familien eller ønsker at drøfte et kirkeligt spørgsmål, kan du vælge den præst, du ønsker at tale med, og derefter vælge blandt hans ledige tider.",
+
+  "durationTitle": "Varighed",
+  "duration": "30 minutter",
+
+  "locationTitle": "Sted",
+
+  "availabilityTitle": "Ledige tider",
+  "availabilityText": "Den enkelte præsts aktuelle ledige dage og tidspunkter vises på hans bookingside.",
+
+  "choosePriestTitle": "Vælg den præst, du ønsker at tale med",
+
+  "choosePriestDescription": "Vælg en af vores præster nedenfor og find derefter en ledig tid, der passer dig.",
+
+  "priests": {
+    "priest1": {
+      "name": "Melake Mihret Qomos Aba Zemikael",
+      "role": "Sognepræst og administrator",
+      "description": "Du kan bestille en tid til åndelig vejledning, pastoral samtale eller spørgsmål vedrørende kirkens liv og tjeneste."
+    },
+
+    "priest2": {
+      "name": "Kesis Endale Assefa ",
+      "role": "Præst",
+      "description": "Du kan bestille en tid til åndelig vejledning, pastoral samtale eller spørgsmål vedrørende kirkens liv og tjeneste."
+    }
+  },
+
+  "reasonTitle": "Hvad kan samtalen handle om?",
+
+  "reasons": {
+    "spiritual": {
+      "title": "Åndelig vejledning",
+      "description": "Samtale om tro, åndeligt liv og spørgsmål vedrørende det kristne liv."
+    },
+
+    "family": {
+      "title": "Familie og pastoral samtale",
+      "description": "En fortrolig pastoral samtale om familiens åndelige liv eller andre forhold, hvor der ønskes vejledning."
+    },
+
+    "church": {
+      "title": "Kirkelige spørgsmål",
+      "description": "Samtale om gudstjenester, aktiviteter, tjeneste eller andre forhold vedrørende menigheden."
+    }
+  },
+
+  "bookButton": "Book tid",
+
+  "howItWorksTitle": "Sådan bestiller du en tid",
+
+  "steps": {
+    "step1": "Vælg den præst, du ønsker at tale med.",
+    "step2": "Vælg en ledig dag og et tidspunkt, der passer dig.",
+    "step3": "Indtast dine kontaktoplysninger, og du modtager en bekræftelse på din aftale."
+  },
+
+  "privacyTitle": "Beskyttelse af dine oplysninger",
+
+  "privacyText": "De oplysninger, du giver i forbindelse med bookingen, bruges kun til at administrere din aftale. Undlad venligst at skrive detaljerede private, helbredsmæssige eller andre følsomme oplysninger i bookingformularen.",
+
+  "privacyLink": "Læs vores privatlivspolitik"
 }
-    
-    
-  }
- 
-
-
+}

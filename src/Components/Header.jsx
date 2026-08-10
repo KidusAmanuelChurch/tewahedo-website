@@ -140,6 +140,13 @@ function Header() {
               >
                 {t("header.committee")}
               </NavDropdown.Item>
+              <NavDropdown.Item
+	as={Link}
+	to="/priest-booking"
+	onClick={handleCloseMenu}
+>
+	{t("header.priestBooking")}
+</NavDropdown.Item>
             </NavDropdown>
 
             <NavDropdown

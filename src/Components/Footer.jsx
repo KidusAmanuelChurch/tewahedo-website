@@ -119,8 +119,13 @@ function Footer() {
 
 									<p>{t("footer.contactText")}</p>
 
-									<Link className="btn btn-default text-white" to="/contact">
+									<Link className="btn btn-default text-white me-3" to="/contact">
 										{t("footer.contactButton")}
+									</Link>
+									
+									
+									<Link className="btn btn-default text-white" to="/priest-booking">
+										{t("footer.priestBooking")}
 									</Link>
 									<br></br><br></br>
 									

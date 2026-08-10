@@ -1,5 +1,6 @@
 import { useRef, useState, useEffect } from "react";
 import { useTranslation } from "react-i18next";
+import { Link } from "react-router-dom";
 
 import audioFile from "../assets/images/kidase.mp3";
 import ChurchImg from "../assets/Images/ChruchBuilding.jpg";
@@ -31,13 +32,17 @@ function BibleVerse() {
 		const observer = new IntersectionObserver(
 			(entries) => {
 				entries.forEach((entry) => {
-					if (entry.isIntersecting) setVisible(true);
+					if (entry.isIntersecting) {
+						setVisible(true);
+					}
 				});
 			},
 			{ threshold: 0.2 }
 		);
 
-		if (sectionRef.current) observer.observe(sectionRef.current);
+		if (sectionRef.current) {
+			observer.observe(sectionRef.current);
+		}
 
 		return () => observer.disconnect();
 	}, []);
@@ -51,34 +56,55 @@ function BibleVerse() {
 			style={{ backgroundColor: "#f8f9fa" }}
 		>
 			<div className="container">
+
+				{/* INTRO / WELCOME */}
 				<div className="row align-items-center">
+
 					{/* TEXT */}
 					<div className="col-lg-6 mb-4 mb-lg-0">
-						<div className="section-title">
-							<h2 className="section-title margin-top-5 fw-bold mb-4">
+
+						<div className="section-title mb-4">
+							<h2 className="fw-bold text-success mb-2">
 								{t("bibleVerse.welcome")}
 							</h2>
 
 							<span className="border-bottom"></span>
 						</div>
 
-						<h4>{t("bibleVerse.holyText")}</h4>
+						<h4 className="mb-4">
+							{t("bibleVerse.holyText")}
+						</h4>
 
-						<br />
+						<p className="mb-3">
+							{t("bibleVerse.paragraph1")}
+						</p>
 
-						<p>{t("bibleVerse.paragraph1")}</p>
+						<p className="mb-3">
+							{t("bibleVerse.paragraph2")}
+						</p>
 
-						<p>{t("bibleVerse.paragraph2")}</p>
+						<p className="mb-3">
+							{t("bibleVerse.paragraph3")}
+						</p>
 
-						<p>{t("bibleVerse.paragraph3")}</p>
+						<p className="mb-3">
+							{t("bibleVerse.paragraph4")}
+						</p>
 
-						<p>{t("bibleVerse.paragraph4")}</p>
-
-						<p className="fw-semibold mt-3">
+						<p className="fw-semibold mt-3 mb-4">
 							{t("bibleVerse.thankyou")}
 						</p>
 
-						<p></p>
+						{/* BOOKING BUTTON */}
+						<div className="mt-4">
+							<Link
+								to="/priest-booking"
+								className="btn btn-success px-4 py-2 shadow-sm"
+							>
+								{t("bibleVerse.priestBooking")}
+							</Link>
+						</div>
+
 					</div>
 
 					{/* IMAGE */}
@@ -89,12 +115,15 @@ function BibleVerse() {
 							className="img-fluid rounded shadow"
 						/>
 					</div>
+
 				</div>
 
-				{/* VERSE */}
+				{/* BIBLE VERSE */}
 				<div className="row justify-content-center mt-5">
 					<div className="col-lg-8 text-center">
+
 						<div className="p-4 p-lg-5 shadow rounded-4 inspirational-box">
+
 							<h2 className="mb-3 verse-text">
 								{t("bibleVerse.verse")}
 							</h2>
@@ -104,7 +133,16 @@ function BibleVerse() {
 							</h6>
 
 							<div className="audio-control">
-								<button onClick={togglePlay} className="play-btn">
+								<button
+									onClick={togglePlay}
+									className="play-btn"
+									type="button"
+									aria-label={
+										isPlaying
+											? "Pause Bible verse audio"
+											: "Play Bible verse audio"
+									}
+								>
 									<span className="icon">
 										{isPlaying ? "⏸" : "▶"}
 									</span>
@@ -116,9 +154,12 @@ function BibleVerse() {
 								src={audioFile}
 								onEnded={() => setIsPlaying(false)}
 							/>
+
 						</div>
+
 					</div>
 				</div>
+
 			</div>
 		</section>
 	);

@@ -25,6 +25,7 @@ import ChartDetail from "../src/Pages/ChartDetail";
 import Services from "../src/Pages/Services";
 import Events from "../src/Pages/Eventsdetail";
 import PrivacyPolicy from "../src/Pages/PrivacyPolicy";
+import PriestBooking from "./Pages/PriestBooking";
 
 
 function AnalyticsTracker() {
@@ -64,6 +65,7 @@ function App() {
 				<Route path="/services" element={<Services />} />
 				<Route path="/events" element={<Events />} />
 				<Route path="/privacy-policy" element={<PrivacyPolicy />} />
+				<Route path="/priest-booking" element={<PriestBooking />} />
 			</Routes>
 			<Footer />
 			{/* </div> */}

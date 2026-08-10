@@ -128,6 +128,7 @@ import React, { useState, useEffect } from "react";
 import CircleLeft from "../assets/Images/kidusAmanuel.jpg";
 import CircleRight from "../assets/Images/kidistmariam.jpg";
 import "./Slider.css";
+import { Link } from "react-router-dom";
 
 import { useTranslation } from "react-i18next";
 
@@ -225,7 +226,10 @@ function Slider() {
 										>
 											{t("slider.button")}
 										</a>
+										
 									</div>
+									
+									
 								</div>
 							</div>
 						</div>
