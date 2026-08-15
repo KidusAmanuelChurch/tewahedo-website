@@ -47,7 +47,8 @@
     "paragraph4": "På denne hjemmeside kan du finde information om den Etiopisk-Ortodokse Tewahedo Kirkes tro, vores gudstjenester, kirkelige aktiviteter og menighedsliv.",
     "thankyou": "Tak fordi du besøger vores hjemmeside. Må Gud velsigne dig.",
     "verse": "“Jeg glædede mig, da man sagde til mig: Lad os gå til Herrens hus.”",
-    "verseRef": "Salme 122,1","priestBooking": "Book samtale med præst"
+    "verseRef": "Salme 122,1","priestBooking": "Book samtale med præst","playAudio": "Afspil",
+"pauseAudio": "Pause"
   },
 
   "about": {
@@ -56,7 +57,8 @@
     "paragraph2": "Ved grundlæggelsen havde kirken ingen faste præster eller diakoner ud over kirkens administrator, Qomos Aba Zemikael. Derfor blev diakoner, som opholdt sig i Danmark i forbindelse med studier, og lejlighedsvis også diakoner fra den Eritreisk-Ortodokse Tewahedo Kirke, inviteret til midlertidigt at bistå ved den Hellige Liturgi, som dengang blev fejret hver anden uge. Selvom menigheden gennem årene har mødt mange udfordringer, er den vokset støt gennem Guds nåde, den åndelige ledelse fra kirkens præst og menighedens store engagement. I dag har kirken uddannet og forberedt mere end ti diakoner til tjeneste. Den største udfordring gennem denne udvikling har været manglen på et permanent gudstjenestested. I mange år blev gudstjenester afholdt i lånte lokaler hos forskellige kirker.",
     "paragraph3": "Fra 2020 blev det stadig vanskeligere at finde midlertidige lokaler til gudstjenester. For at løse denne langvarige udfordring blev der den 5. august 2023 afholdt en ekstraordinær menighedsforsamling, hvor der blev truffet en historisk beslutning om at købe en permanent kirkeejendom og et fast gudstjenestested.",
     "paragraph4": "Under ledelse af Qomos Aba Zemikael og med stor opbakning fra hele menigheden blev der indsamlet de nødvendige midler til at købe kirkens egen ejendom. Den historiske ejendom blev velsignet af Hans Eminence Abune Elias, ærkebiskop for Det Nordiske og Græske Stift, hvor grundstenen blev nedlagt. I dag er opførelsen og udviklingen af kirkens nye bygning i god fremdrift, og projektet fortsætter med Guds hjælp og menighedens fælles indsats.",
-    "button": "Læs mere"
+    "button": "Læs mere","readMore": "Læs mere",
+"readLess": "Vis mindre"
   },
 
   "highlights": {
@@ -79,7 +81,7 @@
     "servicesText": "Kirken tilbyder gudstjenester, bøn, åndelig undervisning, dåb, vielse og andre kirkelige aktiviteter for menigheden.",
 
     "supportTitle": "Støt kirken",
-    "supportText": "Kirken støttes gennem medlemmernes donationer, tiende, frivilligt arbejde og kærlig støtte fra menigheden."
+    "supportText": "Kirken støttes gennem medlemmernes donationer, tiende, frivilligt arbejde og kærlig støtte fra menigheden.","swipeHint": "Swipe for at se flere"
   },
   "banner": {
     "registeredMembers": "Registrerede medlemmer",
@@ -100,7 +102,7 @@
     "mainTitle": "Søndagsskole",
     "mainDescription": "Vores kirkes søndagsskole fungerer under kirkens administration og er organiseret med forskellige afdelinger. Hver afdeling arbejder for at styrke medlemmernes åndelige vækst og kristne liv.",
 
-    "readMore": "Læs mere",
+    "readMore": "Læs mere","swipeHint": "Swipe for at se flere afdelinger",
 
     "education": {
       "title": "Undervisningsafdeling",
@@ -137,6 +139,7 @@
     "subTitle": "Aktuelle begivenheder",
     "mainTitle": "Her finder du vigtige begivenheder, nyheder og meddelelser fra vores lokale kirke.",
     "readMore": "Læs mere",
+    "swipeHint": "Swipe for at se flere nyheder",
     "items": {
       "building": {
         "title": "Kirkebyggeriets udvikling",
@@ -152,6 +155,7 @@
     "churchName": "Debre Mihret Kidus Amanuel Kirke",
     "description": "Den Etiopiske Ortodokse Tewahedo Debre Mihret Kidus Amanuel Kirke i Danmark er et åndeligt fællesskab, der styrker menigheden gennem gudstjeneste, undervisning og kristent fællesskab.",
     "serviceTime": "Gudstjeneste: hver lørdag og på kirkelige højtider",
+    "address": "Vores adresse: Roskildevej 303, 2630 Taastrup.",
     "importantLinks": "Vigtige links",
     "contactTitle": "Kontakt os",
     "contactText": "Har du spørgsmål, kommentarer eller åndelige behov, er du velkommen til at kontakte vores kirke.",
@@ -588,7 +592,9 @@
   },
   "aboutDetail": {
     "backHome": "Hjem",
-    "pageTitle": "Om vores kirke",
+    "pageTitle": "Om vores kirke","readMore": "Læs mere",
+"readLess": "Vis mindre",
+"swipeHint": "Swipe for at se flere afdelinger",
 
     "fatherMessageTitle": "Hilsen fra vores sognepræst",
 
@@ -844,5 +850,11 @@
   "privacyText": "De oplysninger, du giver i forbindelse med bookingen, bruges kun til at administrere din aftale. Undlad venligst at skrive detaljerede private, helbredsmæssige eller andre følsomme oplysninger i bookingformularen.",
 
   "privacyLink": "Læs vores privatlivspolitik"
+},"floatingActions": {
+	"events": "Arrangementer",
+	"appointment": "Book samtale med præst",
+	"donation": "Tiende og Offer",
+	"open": "Åbn hurtige links",
+	"close": "Luk"
 }
 }

@@ -119,7 +119,7 @@
 
 
 
-import Img1 from "../assets/Images/ChruchBuilding.jpg";
+import Img1 from "../assets/Images/cross.jpeg";
 import Img2 from "../assets/Images/image07.jpg";
 import Img3 from "../assets/Images/zmain-slider-3-1536x864.jpg";
 import MembershipModal from "./MembershipModal";
@@ -163,7 +163,7 @@ function Slider() {
 	useEffect(() => {
 		const interval = setInterval(() => {
 			setCurrentSlide((prev) => (prev + 1) % slides.length);
-		}, 4000);
+		}, 3000);
 
 		return () => clearInterval(interval);
 	}, [slides.length]);

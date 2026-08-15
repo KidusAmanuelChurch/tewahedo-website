@@ -26,6 +26,7 @@ import Services from "../src/Pages/Services";
 import Events from "../src/Pages/Eventsdetail";
 import PrivacyPolicy from "../src/Pages/PrivacyPolicy";
 import PriestBooking from "./Pages/PriestBooking";
+import FloatingActions from "./components/FloatingActions";
 
 
 function AnalyticsTracker() {
@@ -66,6 +67,7 @@ function App() {
 				<Route path="/events" element={<Events />} />
 				<Route path="/privacy-policy" element={<PrivacyPolicy />} />
 				<Route path="/priest-booking" element={<PriestBooking />} />
+				
 			</Routes>
 			<Footer />
 			{/* </div> */}

@@ -42,6 +42,7 @@ function Footer() {
 									
 
 									<p>{t("footer.serviceTime")}</p>
+									<p>{t("footer.address")}</p>
 								</div>
 
 								{/* IMPORTANT LINKS */}

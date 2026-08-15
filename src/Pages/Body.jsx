@@ -8,6 +8,7 @@ import Contact from '../Components/Contact';
 import Blog from '../Components/Blog';
 import Slider from '../Components/Slider';
 import BibleVerse from '../Components/BibleVerse';
+import FloatingActions from "../components/FloatingActions";
 
 
 
@@ -23,6 +24,7 @@ function Body() {
 			<Ministries />
 			<Contact />
 			<Blog />
+			<FloatingActions />
 		</>
 	);
 }

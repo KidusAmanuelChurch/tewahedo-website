@@ -9712,6 +9712,236 @@ body {
 }
 
 
+/* ==========================================
+   FLOATING QUICK ACTION MENU
+========================================== */
+
+.floating-actions-container {
+	position: fixed;
+	right: 24px;
+	bottom: 24px;
+
+	z-index: 9999;
+
+	display: flex;
+	flex-direction: column;
+	align-items: flex-end;
+}
+
+
+/* ==========================================
+   MAIN + / X BUTTON
+========================================== */
+
+.floating-main-btn {
+	width: 58px;
+	height: 58px;
+
+	border: none;
+	border-radius: 50%;
+
+	background: #198754;
+	color: white;
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	font-size: 23px;
+
+	cursor: pointer;
+
+	box-shadow:
+		0 8px 24px rgba(0, 0, 0, 0.25);
+
+	transition:
+		transform 0.35s ease,
+		background 0.35s ease,
+		box-shadow 0.35s ease;
+}
+
+.floating-main-btn:hover {
+	transform: scale(1.08);
+
+	box-shadow:
+		0 12px 30px rgba(25, 135, 84, 0.35);
+}
+
+.floating-main-btn.open {
+	transform: rotate(90deg);
+	background: #145c3c;
+}
+
+
+/* ==========================================
+   MENU
+========================================== */
+
+.floating-actions-menu {
+	display: flex;
+	flex-direction: column;
+
+	align-items: flex-end;
+
+	gap: 12px;
+
+	margin-bottom: 14px;
+
+	pointer-events: none;
+}
+
+
+/* ==========================================
+   EACH ACTION
+========================================== */
+
+.floating-action-item {
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+
+	gap: 10px;
+
+	opacity: 0;
+
+	transform:
+		translateY(20px)
+		scale(0.85);
+
+	transition:
+		opacity 0.3s ease,
+		transform 0.35s cubic-bezier(
+			0.34,
+			1.56,
+			0.64,
+			1
+		);
+}
+
+.floating-actions-menu.open {
+	pointer-events: auto;
+}
+
+.floating-actions-menu.open
+.floating-action-item {
+	opacity: 1;
+
+	transform:
+		translateY(0)
+		scale(1);
+}
+
+
+/* ==========================================
+   SMALL ROUND BUTTON
+========================================== */
+
+.floating-small-btn {
+	width: 48px;
+	height: 48px;
+
+	border-radius: 50%;
+
+	background: #34d3a4;
+	color: #198754;
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	font-size: 18px;
+
+	text-decoration: none;
+
+	box-shadow:
+		0 6px 18px rgba(0, 0, 0, 0.18);
+
+	transition:
+		transform 0.3s ease,
+		background 0.3s ease,
+		color 0.3s ease;
+}
+
+.floating-small-btn:hover {
+	background: #198754;
+	color: white;
+
+	transform: scale(1.08);
+}
+
+
+/* ==========================================
+   LABEL
+========================================== */
+
+.floating-action-label {
+	background: #dc3545;
+
+	color: white;
+
+	padding:
+		7px 13px;
+
+	border-radius: 20px;
+
+	font-size: 13px;
+	font-weight: 600;
+
+	white-space: nowrap;
+
+	box-shadow:
+		0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+
+/* ==========================================
+   MOBILE
+========================================== */
+
+@media (max-width: 576px) {
+
+	.floating-actions-container {
+		right: 16px;
+		bottom: 18px;
+	}
+
+	.floating-main-btn {
+		width: 54px;
+		height: 54px;
+		font-size: 21px;
+	}
+
+	.floating-small-btn {
+		width: 44px;
+		height: 44px;
+		font-size: 16px;
+	}
+
+	.floating-action-label {
+		font-size: 12px;
+		padding: 6px 11px;
+	}
+}
+
+
+/* ==========================================
+   REDUCED MOTION
+========================================== */
+
+@media (prefers-reduced-motion: reduce) {
+
+	.floating-main-btn,
+	.floating-action-item,
+	.floating-small-btn {
+		transition: none;
+	}
+}
+
+
+
+
+
+
 
 
 
