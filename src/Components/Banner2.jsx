@@ -85,13 +85,13 @@ function Banner2() {
 											</div>
 
 											{/* MONTHLY SUPPORTERS */}
-											<div className="col-md-5 mb-4 text-primary">
+											{/* <div className="col-md-5 mb-4 text-primary">
 												<CounterCard
 													icon={<FaUserCheck />}
 													title={t("banner.monthlyMembers")}
 													end={130}
 												/>
-											</div>
+											</div> */}
 										</div>
 									</div>
 

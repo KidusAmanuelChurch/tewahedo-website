@@ -23,7 +23,7 @@ function PriestBooking() {
 			role: t("priestBooking.priests.priest1.role"),
 			description: t("priestBooking.priests.priest1.description"),
 			bookingUrl:
-				"https://calendar.google.com/calendar/appointments/schedules/PRIEST_1_BOOKING_ID",
+		"https://calendar.google.com/calendar/appointments/schedules/AcZssZ2eSI7Gh9W0Hxna8aCwtc7stCD6_oiSYxwSZNeVq66qq9qEuY0YiaNJMYesktsP3otNvZMlReI6?gv=true",
 		},
 		{
 			name: t("priestBooking.priests.priest2.name"),
@@ -129,7 +129,7 @@ function PriestBooking() {
 							</div>
 
 							{/* GENERAL INFO */}
-							<div className="row justify-content-center mb-5">
+							{/* <div className="row justify-content-center mb-5">
 								<div className="col-lg-10">
 									<div className="row">
 
@@ -179,7 +179,7 @@ function PriestBooking() {
 
 									</div>
 								</div>
-							</div>
+							</div> */}
 
 							{/* PRIEST SELECTION */}
 							<div className="row justify-content-center mb-5">

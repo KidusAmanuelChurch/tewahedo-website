@@ -211,43 +211,30 @@ function BibleVerse() {
 	};
 
 	// SCROLL ANIMATION + TRY AUTOPLAY
-	useEffect(() => {
-		const observer = new IntersectionObserver(
-			async (entries) => {
-				entries.forEach(async (entry) => {
-					if (entry.isIntersecting) {
-						setVisible(true);
+	// SCROLL ANIMATION ONLY
+useEffect(() => {
+	const observer = new IntersectionObserver(
+		(entries) => {
+			entries.forEach((entry) => {
+				if (entry.isIntersecting) {
+					setVisible(true);
 
-						/*
-							Try playing automatically.
-							Some browsers will block audio with sound
-							until the visitor interacts with the page.
-						*/
-						if (audioRef.current && audioRef.current.paused) {
-							try {
-								await audioRef.current.play();
-								setIsPlaying(true);
-							} catch (error) {
-								// Browser blocked autoplay - this is normal
-								setIsPlaying(false);
-							}
-						}
-
-						observer.unobserve(entry.target);
-					}
-				});
-			},
-			{
-				threshold: 0.35,
-			}
-		);
-
-		if (sectionRef.current) {
-			observer.observe(sectionRef.current);
+					// Animation happens only once
+					observer.unobserve(entry.target);
+				}
+			});
+		},
+		{
+			threshold: 0.35,
 		}
+	);
 
-		return () => observer.disconnect();
-	}, []);
+	if (sectionRef.current) {
+		observer.observe(sectionRef.current);
+	}
+
+	return () => observer.disconnect();
+}, []);
 
 	return (
 		<section

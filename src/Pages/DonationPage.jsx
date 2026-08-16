@@ -71,7 +71,7 @@ function DonationPage() {
 									<hr />
 
 									<h5 className="text-success">
-										📱 {t("donation.mobilePay")}: 399977
+										 {t("donation.mobilePay")}: 399977
 									</h5>
 
 									<hr />
